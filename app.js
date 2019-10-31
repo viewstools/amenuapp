@@ -1,4 +1,4 @@
-let { app, Menu, Tray, shell, systemPreferences } = require('electron')
+let { app, nativeTheme, Menu, Tray, shell } = require('electron')
 let { promises: fs } = require('fs')
 let path = require('path')
 
@@ -47,7 +47,7 @@ app.on('ready', async () => {
   let tray = new Tray(
     path.join(
       __dirname,
-      systemPreferences.isDarkMode() ? 'icon-white.png' : 'icon.png'
+      nativeTheme.shouldUseDarkColors ? 'icon-white.png' : 'icon.png'
     )
   )
   let menu = makeMenu(
