@@ -1,0 +1,42 @@
+{
+  "name": "amenuapp",
+  "version": "1.0.0",
+  "main": "app.js",
+  "license": "MIT",
+  "scripts": {
+    "start": "electron .",
+    "build": "electron-builder --mac"
+  },
+  "build": {
+    "artifactName": "${name}-${version}-${os}.${ext}",
+    "appId": "com.views.amenuapp",
+    "productName": "A menu app",
+    "files": [
+      "app.js",
+      "icon.png",
+      "icon@2x.png",
+      "icon@3x.png",
+      "icon-white.png",
+      "icon-white@2x.png",
+      "icon-white@3x.png",
+      "menu.json"
+    ],
+    "directories": {
+      "buildResources": "assets"
+    },
+    "linux": {
+      "category": "Development"
+    },
+    "mac": {
+      "category": "public.app-category.developer-tools"
+    },
+    "win": {
+      "target": "msi",
+      "publisherName": "UXtemple Ltd"
+    }
+  },
+  "devDependencies": {
+    "electron": "^7.0.0",
+    "electron-builder": "^22.1.0"
+  }
+}

@@ -1,0 +1,16 @@
+[
+  {
+    "label": "Category 1",
+    "submenu": [
+      {
+        "label": "Act of god",
+        "link": "https://www.powerthesaurus.org/${label}/synonyms"
+      },
+      {
+        "label": "Word 2"
+      }
+    ]
+  },
+  { "type": "separator" },
+  { "label": "Blog", "link": "https://google.com" }
+]
