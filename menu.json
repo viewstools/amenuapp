@@ -1,16 +1,255 @@
 [
   {
-    "label": "Category 1",
+    "label": "Mind-Blowing",
     "submenu": [
       {
-        "label": "Act of god",
+        "label": "Alluring",
         "link": "https://www.powerthesaurus.org/${label}/synonyms"
-      },
+      },{
+        "label": "Amazing",
+        "link": "https://www.powerthesaurus.org/${label}/synonyms"
+      },{
+        "label": "Astonishing",
+        "link": "https://www.powerthesaurus.org/${label}/synonyms"
+      },{
+        "label": "Astounding",
+        "link": "https://www.powerthesaurus.org/${label}/synonyms"
+      },{
+        "label": "Awesome",
+        "link": "https://www.powerthesaurus.org/${label}/synonyms"
+      },{
+        "label": "Badass",
+        "link": "https://www.powerthesaurus.org/${label}/synonyms"
+      },{
+        "label": "Bomb",
+        "link": "https://www.powerthesaurus.org/${label}/synonyms"
+      },{
+        "label": "Brilliant",
+        "link": "https://www.powerthesaurus.org/${label}/synonyms"
+      },{
+        "label": "Catapult",
+        "link": "https://www.powerthesaurus.org/${label}/synonyms"
+      },{
+        "label": "Charming",
+        "link": "https://www.powerthesaurus.org/${label}/synonyms"
+      },{
+        "label": "Defying",
+        "link": "https://www.powerthesaurus.org/${label}/synonyms"
+      },{
+        "label": "Delicious",
+        "link": "https://www.powerthesaurus.org/${label}/synonyms"
+      },{
+        "label": "Delightful",
+        "link": "https://www.powerthesaurus.org/${label}/synonyms"
+      },{
+        "label": "Dreamy",
+        "link": "https://www.powerthesaurus.org/${label}/synonyms"
+      },{
+        "label": "Epic",
+        "link": "https://www.powerthesaurus.org/${label}/synonyms"
+      },{
+        "label": "Explosive",
+        "link": "https://www.powerthesaurus.org/${label}/synonyms"
+      },{
+        "label": "Exquisite",
+        "link": "https://www.powerthesaurus.org/${label}/synonyms"
+      },{
+        "label": "Greatness",
+        "link": "https://www.powerthesaurus.org/${label}/synonyms"
+      },{
+        "label": "Heavenly",
+        "link": "https://www.powerthesaurus.org/${label}/synonyms"
+      },{
+        "label": "Incredible",
+        "link": "https://www.powerthesaurus.org/${label}/synonyms"
+      },{
+        "label": "Jaw-dropping",
+        "link": "https://www.powerthesaurus.org/${label}/synonyms"
+      },{
+        "label": "Kickass",
+        "link": "https://www.powerthesaurus.org/${label}/synonyms"
+      },{
+        "label": "Legendary",
+        "link": "https://www.powerthesaurus.org/${label}/synonyms"
+      },{
+        "label": "Mesmerizing",
+        "link": "https://www.powerthesaurus.org/${label}/synonyms"
+      },{
+        "label": "Mouth-watering",
+        "link": "https://www.powerthesaurus.org/${label}/synonyms"
+      },{
+        "label": "Nail",
+        "link": "https://www.powerthesaurus.org/${label}/synonyms"
+      },{
+        "label": "Spellbinding",
+        "link": "https://www.powerthesaurus.org/${label}/synonyms"
+      },{
+        "label": "Sublime",
+        "link": "https://www.powerthesaurus.org/${label}/synonyms"
+      },{
+        "label": "Triumph",
+        "link": "https://www.powerthesaurus.org/${label}/synonyms"
+      },{
+        "label": "Unbelievable",
+        "link": "https://www.powerthesaurus.org/${label}/synonyms"
+      },{
+        "label": "Unleashed",
+        "link": "https://www.powerthesaurus.org/${label}/synonyms"
+      },{
+        "label": "Polarizing",
+        "link": "https://www.powerthesaurus.org/${label}/synonyms"
+      },{
+        "label": "Dominate",
+        "link": "https://www.powerthesaurus.org/${label}/synonyms"
+      }
+    ]
+  },
+  {
+    "label": "Lust",
+    "submenu": [
       {
-        "label": "Word 2"
+        "label": "Allure",
+        "link": "https://www.powerthesaurus.org/${label}/synonyms"
+      },{
+        "label": "Amazing",
+        "link": "https://www.powerthesaurus.org/${label}/synonyms"
+      },{
+        "label": "Astonishing",
+        "link": "https://www.powerthesaurus.org/${label}/synonyms"
+      },{
+        "label": "Astounding",
+        "link": "https://www.powerthesaurus.org/${label}/synonyms"
+      },{
+        "label": "Awesome",
+        "link": "https://www.powerthesaurus.org/${label}/synonyms"
+      },{
+        "label": "Badass",
+        "link": "https://www.powerthesaurus.org/${label}/synonyms"
+      },{
+        "label": "Bomb",
+        "link": "https://www.powerthesaurus.org/${label}/synonyms"
+      },{
+        "label": "Brilliant",
+        "link": "https://www.powerthesaurus.org/${label}/synonyms"
+      },{
+        "label": "Catapult",
+        "link": "https://www.powerthesaurus.org/${label}/synonyms"
+      },{
+        "label": "Charming",
+        "link": "https://www.powerthesaurus.org/${label}/synonyms"
+      },{
+        "label": "Defying",
+        "link": "https://www.powerthesaurus.org/${label}/synonyms"
+      },{
+        "label": "Delicious",
+        "link": "https://www.powerthesaurus.org/${label}/synonyms"
+      },{
+        "label": "Delightful",
+        "link": "https://www.powerthesaurus.org/${label}/synonyms"
+      },{
+        "label": "Dreamy",
+        "link": "https://www.powerthesaurus.org/${label}/synonyms"
+      },{
+        "label": "Epic",
+        "link": "https://www.powerthesaurus.org/${label}/synonyms"
+      },{
+        "label": "Explosive",
+        "link": "https://www.powerthesaurus.org/${label}/synonyms"
+      },{
+        "label": "Exquisite",
+        "link": "https://www.powerthesaurus.org/${label}/synonyms"
+      },{
+        "label": "Greatness",
+        "link": "https://www.powerthesaurus.org/${label}/synonyms"
+      },{
+        "label": "Heavenly",
+        "link": "https://www.powerthesaurus.org/${label}/synonyms"
+      },{
+        "label": "Incredible",
+        "link": "https://www.powerthesaurus.org/${label}/synonyms"
+      },{
+        "label": "Jaw-dropping",
+        "link": "https://www.powerthesaurus.org/${label}/synonyms"
+      },{
+        "label": "Kickass",
+        "link": "https://www.powerthesaurus.org/${label}/synonyms"
+      },{
+        "label": "Legendary",
+        "link": "https://www.powerthesaurus.org/${label}/synonyms"
+      },{
+        "label": "Mesmerizing",
+        "link": "https://www.powerthesaurus.org/${label}/synonyms"
+      },{
+        "label": "Mouth-watering",
+        "link": "https://www.powerthesaurus.org/${label}/synonyms"
+      },{
+        "label": "Nail",
+        "link": "https://www.powerthesaurus.org/${label}/synonyms"
+      },{
+        "label": "Spellbinding",
+        "link": "https://www.powerthesaurus.org/${label}/synonyms"
+      },{
+        "label": "Sublime",
+        "link": "https://www.powerthesaurus.org/${label}/synonyms"
+      },{
+        "label": "Triumph",
+        "link": "https://www.powerthesaurus.org/${label}/synonyms"
+      },{
+        "label": "Unbelievable",
+        "link": "https://www.powerthesaurus.org/${label}/synonyms"
+      },{
+        "label": "Unleashed",
+        "link": "https://www.powerthesaurus.org/${label}/synonyms"
+      },{
+        "label": "Polarizing",
+        "link": "https://www.powerthesaurus.org/${label}/synonyms"
+      },{
+        "label": "Dominate",
+        "link": "https://www.powerthesaurus.org/${label}/synonyms"
+      }
+    ]
+  },
+  {
+    "label": "Happiness",
+    "submenu": [
+      {
+        "label": "Heartwarming",
+        "link": "https://www.powerthesaurus.org/${label}/synonyms"
+      },{
+        "label": "Inspiring",
+        "link": "https://www.powerthesaurus.org/${label}/synonyms"
+      },{
+        "label": "Profound",
+        "link": "https://www.powerthesaurus.org/${label}/synonyms"
+      },{
+        "label": "Zen",
+        "link": "https://www.powerthesaurus.org/${label}/synonyms"
+      },{
+        "label": "Alive",
+        "link": "https://www.powerthesaurus.org/${label}/synonyms"
+      },{
+        "label": "Light",
+        "link": "https://www.powerthesaurus.org/${label}/synonyms"
+      },{
+        "label": "Healthy",
+        "link": "https://www.powerthesaurus.org/${label}/synonyms"
+      },{
+        "label": "Funniest",
+        "link": "https://www.powerthesaurus.org/${label}/synonyms"
+      },{
+        "label": "Hilarious",
+        "link": "https://www.powerthesaurus.org/${label}/synonyms"
+      },{
+        "label": "Laugh",
+        "link": "https://www.powerthesaurus.org/${label}/synonyms"
+      },{
+        "label": "Ridiculous",
+        "link": "https://www.powerthesaurus.org/${label}/synonyms"
       }
     ]
   },
   { "type": "separator" },
-  { "label": "Blog", "link": "https://google.com" }
+  { "label": "Tech for All on Medium", "link": "https://medium.com/techforall" }
+  { "type": "separator" },
+  { "label": "Power Thesaurus Site", "link": "https://www.powerthesaurus.org/higher_power/synonyms" }
 ]
