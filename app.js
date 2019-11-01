@@ -1,5 +1,4 @@
 let { app, nativeTheme, Menu, Tray, shell } = require('electron')
-let { promises: fs } = require('fs')
 let path = require('path')
 
 let LINK_INTERPOLATION = /(\${label(.*)})/
@@ -21,12 +20,12 @@ function makeMenu(menu) {
             if (LINK_INTERPOLATION.test(realLink)) {
               let [, marker, space] = realLink.match(LINK_INTERPOLATION)
 
-              if (!space) space = ' '
+              let linkLabel = label.toLowerCase()
+              if (space) {
+                linkLabel = linkLabel.replace(/\s/g, space)
+              }
 
-              realLink = realLink.replace(
-                marker,
-                label.replace(/\s/g, space).toLowerCase()
-              )
+              realLink = realLink.replace(marker, linkLabel)
             }
 
             shell.openExternal(realLink)
@@ -43,6 +42,8 @@ function makeMenu(menu) {
     .filter(Boolean)
 }
 
+app.dock.hide()
+
 app.on('ready', async () => {
   let tray = new Tray(
     path.join(
@@ -50,10 +51,17 @@ app.on('ready', async () => {
       nativeTheme.shouldUseDarkColors ? 'icon-white.png' : 'icon.png'
     )
   )
-  let menu = makeMenu(
-    JSON.parse(await fs.readFile(path.join(__dirname, 'menu.json'), 'utf8'))
-  )
-  let contextMenu = Menu.buildFromTemplate(menu)
+  let menu = makeMenu(require('./menu.json'))
+  let contextMenu = Menu.buildFromTemplate([
+    ...menu,
+    { type: 'separator' },
+    { role: 'quit', label: 'Quit' },
+  ])
   tray.setToolTip('A menu app')
   tray.setContextMenu(contextMenu)
+})
+
+// Quit the app when the window is closed
+app.on('window-all-closed', () => {
+  app.quit()
 })

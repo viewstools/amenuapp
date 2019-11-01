@@ -1,5 +1,5 @@
 {
-  "name": "amenuapp",
+  "name": "your-higher-power",
   "version": "1.0.0",
   "main": "app.js",
   "license": "MIT",
@@ -9,8 +9,8 @@
   },
   "build": {
     "artifactName": "${name}-${version}-${os}.${ext}",
-    "appId": "com.views.amenuapp",
-    "productName": "A menu app",
+    "appId": "com.views.your-higher-power",
+    "productName": "Your Higher Power",
     "files": [
       "app.js",
       "icon.png",
@@ -21,22 +21,20 @@
       "icon-white@3x.png",
       "menu.json"
     ],
-    "directories": {
-      "buildResources": "assets"
-    },
-    "linux": {
-      "category": "Development"
-    },
     "mac": {
-      "category": "public.app-category.developer-tools"
+      "category": "public.app-category.productivity",
+      "icon": "./build/icon.icns",
+      "hardenedRuntime": true,
+      "gatekeeperAssess": false,
+      "entitlements": "./build/entitlements.mac.plist",
+      "entitlementsInherit": "./build/entitlements.mac.plist"
     },
-    "win": {
-      "target": "msi",
-      "publisherName": "UXtemple Ltd"
-    }
+    "afterSign": "./build/notarize.js"
   },
   "devDependencies": {
+    "dotenv": "^8.2.0",
     "electron": "^7.0.0",
-    "electron-builder": "^22.1.0"
+    "electron-builder": "^22.1.0",
+    "electron-notarize": "^0.1.1"
   }
 }
