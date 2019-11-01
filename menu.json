@@ -3,7 +3,7 @@
     "label": "🤩 Your Higher Power",
     "submenu": [
       {
-        "label": "Make your own collection",
+        "label": "Make your menu app",
         "link": "https://www.powerthesaurus.org/${label}/synonyms"
       }
     ]
