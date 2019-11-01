@@ -1,6 +1,16 @@
 [
+  { 
+    "label": "🤩 Your Higher Power",
+    "submenu": [
+      {
+        "label": "Make your own collection",
+        "link": "https://www.powerthesaurus.org/${label}/synonyms"
+      }
+    ]
+  },
+  { "type": "separator" },
   {
-    "label": "Mind-Blowing",
+    "label": "🤯 Mind-Blowing",
     "submenu": [
       {
         "label": "Alluring",
@@ -137,10 +147,10 @@
     ]
   },
   {
-    "label": "Lust",
+    "label": "🤑 High-Convertion",
     "submenu": [
       {
-        "label": "Allure",
+        "label": "Anniversary",
         "link": "https://www.powerthesaurus.org/${label}/synonyms"
       },
       {
@@ -148,67 +158,561 @@
         "link": "https://www.powerthesaurus.org/${label}/synonyms"
       },
       {
-        "label": "Astonishing",
+        "label": "Announcing",
         "link": "https://www.powerthesaurus.org/${label}/synonyms"
       },
       {
-        "label": "Astounding",
+        "label": "Bargain",
         "link": "https://www.powerthesaurus.org/${label}/synonyms"
       },
       {
-        "label": "Awesome",
+        "label": "Basic",
         "link": "https://www.powerthesaurus.org/${label}/synonyms"
       },
       {
-        "label": "Badass",
+        "label": "Because",
         "link": "https://www.powerthesaurus.org/${label}/synonyms"
       },
       {
-        "label": "Bomb",
+        "label": "Best",
         "link": "https://www.powerthesaurus.org/${label}/synonyms"
       },
       {
-        "label": "Brilliant",
+        "label": "Big",
         "link": "https://www.powerthesaurus.org/${label}/synonyms"
       },
       {
-        "label": "Catapult",
+        "label": "Bonus",
         "link": "https://www.powerthesaurus.org/${label}/synonyms"
       },
       {
-        "label": "Charming",
+        "label": "Challenge",
         "link": "https://www.powerthesaurus.org/${label}/synonyms"
       },
       {
-        "label": "Defying",
+        "label": "Compare",
         "link": "https://www.powerthesaurus.org/${label}/synonyms"
       },
       {
-        "label": "Delicious",
+        "label": "Complete",
         "link": "https://www.powerthesaurus.org/${label}/synonyms"
       },
       {
-        "label": "Delightful",
+        "label": "Create",
         "link": "https://www.powerthesaurus.org/${label}/synonyms"
       },
       {
-        "label": "Dreamy",
+        "label": "Discover",
         "link": "https://www.powerthesaurus.org/${label}/synonyms"
       },
       {
-        "label": "Epic",
+        "label": "Easy",
         "link": "https://www.powerthesaurus.org/${label}/synonyms"
       },
       {
-        "label": "Explosive",
+        "label": "Exclusive",
         "link": "https://www.powerthesaurus.org/${label}/synonyms"
       },
       {
-        "label": "Exquisite",
+        "label": "Extra",
         "link": "https://www.powerthesaurus.org/${label}/synonyms"
       },
       {
-        "label": "Greatness",
+        "label": "Extraordinary",
+        "link": "https://www.powerthesaurus.org/${label}/synonyms"
+      },
+      {
+        "label": "First",
+        "link": "https://www.powerthesaurus.org/${label}/synonyms"
+      },
+      {
+        "label": "Free",
+        "link": "https://www.powerthesaurus.org/${label}/synonyms"
+      },
+      {
+        "label": "Guarantee",
+        "link": "https://www.powerthesaurus.org/${label}/synonyms"
+      },
+      {
+        "label": "Health",
+        "link": "https://www.powerthesaurus.org/${label}/synonyms"
+      },
+      {
+        "label": "Help",
+        "link": "https://www.powerthesaurus.org/${label}/synonyms"
+      },
+      {
+        "label": "Hot",
+        "link": "https://www.powerthesaurus.org/${label}/synonyms"
+      },
+      {
+        "label": "Hot Special",
+        "link": "https://www.powerthesaurus.org/${label}/synonyms"
+      },
+      {
+        "label": "How to",
+        "link": "https://www.powerthesaurus.org/${label}/synonyms"
+      },
+      {
+        "label": "Hurry",
+        "link": "https://www.powerthesaurus.org/${label}/synonyms"
+      },
+      {
+        "label": "Immediately",
+        "link": "https://www.powerthesaurus.org/${label}/synonyms"
+      },
+      {
+        "label": "Improve",
+        "link": "https://www.powerthesaurus.org/${label}/synonyms"
+      },
+      {
+        "label": "Improvement",
+        "link": "https://www.powerthesaurus.org/${label}/synonyms"
+      },
+      {
+        "label": "Instantly",
+        "link": "https://www.powerthesaurus.org/${label}/synonyms"
+      },
+      {
+        "label": "Introducing",
+        "link": "https://www.powerthesaurus.org/${label}/synonyms"
+      },
+      {
+        "label": "Know",
+        "link": "https://www.powerthesaurus.org/${label}/synonyms"
+      },
+      {
+        "label": "Latest",
+        "link": "https://www.powerthesaurus.org/${label}/synonyms"
+      },
+      {
+        "label": "Learn",
+        "link": "https://www.powerthesaurus.org/${label}/synonyms"
+      },
+      {
+        "label": "Magic",
+        "link": "https://www.powerthesaurus.org/${label}/synonyms"
+      },
+      {
+        "label": "Miracle",
+        "link": "https://www.powerthesaurus.org/${label}/synonyms"
+      },
+      {
+        "label": "Money",
+        "link": "https://www.powerthesaurus.org/${label}/synonyms"
+      },
+      {
+        "label": "More",
+        "link": "https://www.powerthesaurus.org/${label}/synonyms"
+      },
+      {
+        "label": "New",
+        "link": "https://www.powerthesaurus.org/${label}/synonyms"
+      },
+      {
+        "label": "Now",
+        "link": "https://www.powerthesaurus.org/${label}/synonyms"
+      },
+      {
+        "label": "Offer",
+        "link": "https://www.powerthesaurus.org/${label}/synonyms"
+      },
+      {
+        "label": "Plus",
+        "link": "https://www.powerthesaurus.org/${label}/synonyms"
+      },
+      {
+        "label": "Powerful",
+        "link": "https://www.powerthesaurus.org/${label}/synonyms"
+      },
+      {
+        "label": "Premiere",
+        "link": "https://www.powerthesaurus.org/${label}/synonyms"
+      },
+      {
+        "label": "Profit",
+        "link": "https://www.powerthesaurus.org/${label}/synonyms"
+      },
+      {
+        "label": "Protect",
+        "link": "https://www.powerthesaurus.org/${label}/synonyms"
+      },
+      {
+        "label": "Proven",
+        "link": "https://www.powerthesaurus.org/${label}/synonyms"
+      },
+      {
+        "label": "Quick",
+        "link": "https://www.powerthesaurus.org/${label}/synonyms"
+      },
+      {
+        "label": "Remarkable",
+        "link": "https://www.powerthesaurus.org/${label}/synonyms"
+      },
+      {
+        "label": "Results",
+        "link": "https://www.powerthesaurus.org/${label}/synonyms"
+      },
+      {
+        "label": "Revolutionary",
+        "link": "https://www.powerthesaurus.org/${label}/synonyms"
+      },
+      {
+        "label": "Safety",
+        "link": "https://www.powerthesaurus.org/${label}/synonyms"
+      },
+      {
+        "label": "Save",
+        "link": "https://www.powerthesaurus.org/${label}/synonyms"
+      },
+      {
+        "label": "Sensational",
+        "link": "https://www.powerthesaurus.org/${label}/synonyms"
+      },
+      {
+        "label": "Startling",
+        "link": "https://www.powerthesaurus.org/${label}/synonyms"
+      },
+      {
+        "label": "Suddenly",
+        "link": "https://www.powerthesaurus.org/${label}/synonyms"
+      },
+      {
+        "label": "Today",
+        "link": "https://www.powerthesaurus.org/${label}/synonyms"
+      },
+      {
+        "label": "Trust",
+        "link": "https://www.powerthesaurus.org/${label}/synonyms"
+      },
+      {
+        "label": "Ultimate",
+        "link": "https://www.powerthesaurus.org/${label}/synonyms"
+      },
+      {
+        "label": "Understand",
+        "link": "https://www.powerthesaurus.org/${label}/synonyms"
+      },
+      {
+        "label": "Wanted",
+        "link": "https://www.powerthesaurus.org/${label}/synonyms"
+      },
+      {
+        "label": "Win",
+        "link": "https://www.powerthesaurus.org/${label}/synonyms"
+      },
+      {
+        "label": "Worst",
+        "link": "https://www.powerthesaurus.org/${label}/synonyms"
+      },
+      {
+        "label": "You",
+        "link": "https://www.powerthesaurus.org/${label}/synonyms"
+      }
+    ]
+  },
+  {
+    "label": "🥵 Urgency",
+    "submenu": [
+      {
+        "label": "Bargain",
+        "link": "https://www.powerthesaurus.org/${label}/synonyms"
+      },
+      {
+        "label": "Deadline",
+        "link": "https://www.powerthesaurus.org/${label}/synonyms"
+      },
+      {
+        "label": "Discount",
+        "link": "https://www.powerthesaurus.org/${label}/synonyms"
+      },
+      {
+        "label": "Explode",
+        "link": "https://www.powerthesaurus.org/${label}/synonyms"
+      },
+      {
+        "label": "Extra",
+        "link": "https://www.powerthesaurus.org/${label}/synonyms"
+      },
+      {
+        "label": "Fortune",
+        "link": "https://www.powerthesaurus.org/${label}/synonyms"
+      },
+      {
+        "label": "Freebie",
+        "link": "https://www.powerthesaurus.org/${label}/synonyms"
+      },
+      {
+        "label": "Immediately",
+        "link": "https://www.powerthesaurus.org/${label}/synonyms"
+      },
+      {
+        "label": "Instant Savings",
+        "link": "https://www.powerthesaurus.org/${label}/synonyms"
+      },
+      {
+        "label": "Instantly",
+        "link": "https://www.powerthesaurus.org/${label}/synonyms"
+      },
+      {
+        "label": "Jackpot",
+        "link": "https://www.powerthesaurus.org/${label}/synonyms"
+      },
+      {
+        "label": "Left Behind",
+        "link": "https://www.powerthesaurus.org/${label}/synonyms"
+      },
+      {
+        "label": "Limited",
+        "link": "https://www.powerthesaurus.org/${label}/synonyms"
+      },
+      {
+        "label": "Magical",
+        "link": "https://www.powerthesaurus.org/${label}/synonyms"
+      },
+      {
+        "label": "Magnificent",
+        "link": "https://www.powerthesaurus.org/${label}/synonyms"
+      },
+      {
+        "label": "Miracle",
+        "link": "https://www.powerthesaurus.org/${label}/synonyms"
+      },
+      {
+        "label": "Missing Out",
+        "link": "https://www.powerthesaurus.org/${label}/synonyms"
+      },
+      {
+        "label": "Most Important",
+        "link": "https://www.powerthesaurus.org/${label}/synonyms"
+      },
+      {
+        "label": "Profitable",
+        "link": "https://www.powerthesaurus.org/${label}/synonyms"
+      },
+      {
+        "label": "Proven",
+        "link": "https://www.powerthesaurus.org/${label}/synonyms"
+      },
+      {
+        "label": "Quick",
+        "link": "https://www.powerthesaurus.org/${label}/synonyms"
+      },
+      {
+        "label": "Reduced",
+        "link": "https://www.powerthesaurus.org/${label}/synonyms"
+      },
+      {
+        "label": "Remarkable",
+        "link": "https://www.powerthesaurus.org/${label}/synonyms"
+      },
+      {
+        "label": "Results",
+        "link": "https://www.powerthesaurus.org/${label}/synonyms"
+      },
+      {
+        "label": "Revolutionary",
+        "link": "https://www.powerthesaurus.org/${label}/synonyms"
+      },
+      {
+        "label": "Safe",
+        "link": "https://www.powerthesaurus.org/${label}/synonyms"
+      },
+      {
+        "label": "Save",
+        "link": "https://www.powerthesaurus.org/${label}/synonyms"
+      },
+      {
+        "label": "Seize",
+        "link": "https://www.powerthesaurus.org/${label}/synonyms"
+      },
+      {
+        "label": "Sensational",
+        "link": "https://www.powerthesaurus.org/${label}/synonyms"
+      },
+      {
+        "label": "Improvement",
+        "link": "https://www.powerthesaurus.org/${label}/synonyms"
+      },
+      {
+        "label": "Should",
+        "link": "https://www.powerthesaurus.org/${label}/synonyms"
+      },
+      {
+        "label": "Skyrocket",
+        "link": "https://www.powerthesaurus.org/${label}/synonyms"
+      },
+      {
+        "label": "Startling",
+        "link": "https://www.powerthesaurus.org/${label}/synonyms"
+      },
+      {
+        "label": "Strongly suggest",
+        "link": "https://www.powerthesaurus.org/${label}/synonyms"
+      },
+      {
+        "label": "Superb",
+        "link": "https://www.powerthesaurus.org/${label}/synonyms"
+      },
+      {
+        "label": "Superior",
+        "link": "https://www.powerthesaurus.org/${label}/synonyms"
+      },
+      {
+        "label": "Tremendous",
+        "link": "https://www.powerthesaurus.org/${label}/synonyms"
+      },
+      {
+        "label": "Truly",
+        "link": "https://www.powerthesaurus.org/${label}/synonyms"
+      },
+      {
+        "label": "Trustworthy",
+        "link": "https://www.powerthesaurus.org/${label}/synonyms"
+      },
+      {
+        "label": "Urge",
+        "link": "https://www.powerthesaurus.org/${label}/synonyms"
+      },
+      {
+        "label": "Worthwhile",
+        "link": "https://www.powerthesaurus.org/${label}/synonyms"
+      }
+    ]
+  },
+  {
+    "label": "😍 Lust",
+    "submenu": [
+      {
+        "label": "Allure",
+        "link": "https://www.powerthesaurus.org/${label}/synonyms"
+      },
+      {
+        "label": "Arouse",
+        "link": "https://www.powerthesaurus.org/${label}/synonyms"
+      },
+      {
+        "label": "Bare",
+        "link": "https://www.powerthesaurus.org/${label}/synonyms"
+      },
+      {
+        "label": "Begging",
+        "link": "https://www.powerthesaurus.org/${label}/synonyms"
+      },
+      {
+        "label": "Beguiling",
+        "link": "https://www.powerthesaurus.org/${label}/synonyms"
+      },
+      {
+        "label": "Brazen",
+        "link": "https://www.powerthesaurus.org/${label}/synonyms"
+      },
+      {
+        "label": "Captivating",
+        "link": "https://www.powerthesaurus.org/${label}/synonyms"
+      },
+      {
+        "label": "Charm",
+        "link": "https://www.powerthesaurus.org/${label}/synonyms"
+      },
+      {
+        "label": "Cheeky",
+        "link": "https://www.powerthesaurus.org/${label}/synonyms"
+      },
+      {
+        "label": "Climax",
+        "link": "https://www.powerthesaurus.org/${label}/synonyms"
+      },
+      {
+        "label": "Crave",
+        "link": "https://www.powerthesaurus.org/${label}/synonyms"
+      },
+      {
+        "label": "Decadent",
+        "link": "https://www.powerthesaurus.org/${label}/synonyms"
+      },
+      {
+        "label": "Delight",
+        "link": "https://www.powerthesaurus.org/${label}/synonyms"
+      },
+      {
+        "label": "Delirious",
+        "link": "https://www.powerthesaurus.org/${label}/synonyms"
+      },
+      {
+        "label": "Depraved",
+        "link": "https://www.powerthesaurus.org/${label}/synonyms"
+      },
+      {
+        "label": "Desire",
+        "link": "https://www.powerthesaurus.org/${label}/synonyms"
+      },
+      {
+        "label": "Dirty",
+        "link": "https://www.powerthesaurus.org/${label}/synonyms"
+      },
+      {
+        "label": "Divine",
+        "link": "https://www.powerthesaurus.org/${label}/synonyms"
+      },
+      {
+        "label": "Ecstasy",
+        "link": "https://www.powerthesaurus.org/${label}/synonyms"
+      },
+      {
+        "label": "Embrace",
+        "link": "https://www.powerthesaurus.org/${label}/synonyms"
+      },
+      {
+        "label": "Enchant",
+        "link": "https://www.powerthesaurus.org/${label}/synonyms"
+      },
+      {
+        "label": "Enthralling",
+        "link": "https://www.powerthesaurus.org/${label}/synonyms"
+      },
+      {
+        "label": "Entice",
+        "link": "https://www.powerthesaurus.org/${label}/synonyms"
+      },
+      {
+        "label": "Entrance",
+        "link": "https://www.powerthesaurus.org/${label}/synonyms"
+      },
+      {
+        "label": "Excite",
+        "link": "https://www.powerthesaurus.org/${label}/synonyms"
+      },
+      {
+        "label": "Explicit",
+        "link": "https://www.powerthesaurus.org/${label}/synonyms"
+      },
+      {
+        "label": "Exposed",
+        "link": "https://www.powerthesaurus.org/${label}/synonyms"
+      },
+      {
+        "label": "Fantasy",
+        "link": "https://www.powerthesaurus.org/${label}/synonyms"
+      },
+      {
+        "label": "Fascinate",
+        "link": "https://www.powerthesaurus.org/${label}/synonyms"
+      },
+      {
+        "label": "Forbidden",
+        "link": "https://www.powerthesaurus.org/${label}/synonyms"
+      },
+      {
+        "label": "Frisky",
+        "link": "https://www.powerthesaurus.org/${label}/synonyms"
+      },
+      {
+        "label": "Goosebumps",
+        "link": "https://www.powerthesaurus.org/${label}/synonyms"
+      },
+      {
+        "label": "Hanker",
         "link": "https://www.powerthesaurus.org/${label}/synonyms"
       },
       {
@@ -216,23 +720,87 @@
         "link": "https://www.powerthesaurus.org/${label}/synonyms"
       },
       {
-        "label": "Incredible",
+        "label": "Hottest",
         "link": "https://www.powerthesaurus.org/${label}/synonyms"
       },
       {
-        "label": "Jaw-dropping",
+        "label": "Hypnotic",
         "link": "https://www.powerthesaurus.org/${label}/synonyms"
       },
       {
-        "label": "Kickass",
+        "label": "Impure",
         "link": "https://www.powerthesaurus.org/${label}/synonyms"
       },
       {
-        "label": "Legendary",
+        "label": "Indecent",
         "link": "https://www.powerthesaurus.org/${label}/synonyms"
       },
       {
-        "label": "Mesmerizing",
+        "label": "Intense",
+        "link": "https://www.powerthesaurus.org/${label}/synonyms"
+      },
+      {
+        "label": "Intoxicating",
+        "link": "https://www.powerthesaurus.org/${label}/synonyms"
+      },
+      {
+        "label": "Itching",
+        "link": "https://www.powerthesaurus.org/${label}/synonyms"
+      },
+      {
+        "label": "Juicy",
+        "link": "https://www.powerthesaurus.org/${label}/synonyms"
+      },
+      {
+        "label": "Kinky",
+        "link": "https://www.powerthesaurus.org/${label}/synonyms"
+      },
+      {
+        "label": "Kiss",
+        "link": "https://www.powerthesaurus.org/${label}/synonyms"
+      },
+      {
+        "label": "Lascivious",
+        "link": "https://www.powerthesaurus.org/${label}/synonyms"
+      },
+      {
+        "label": "Lewd",
+        "link": "https://www.powerthesaurus.org/${label}/synonyms"
+      },
+      {
+        "label": "Lick",
+        "link": "https://www.powerthesaurus.org/${label}/synonyms"
+      },
+      {
+        "label": "Lonely",
+        "link": "https://www.powerthesaurus.org/${label}/synonyms"
+      },
+      {
+        "label": "Longing",
+        "link": "https://www.powerthesaurus.org/${label}/synonyms"
+      },
+      {
+        "label": "Love",
+        "link": "https://www.powerthesaurus.org/${label}/synonyms"
+      },
+      {
+        "label": "Lure",
+        "link": "https://www.powerthesaurus.org/${label}/synonyms"
+      },
+      {
+        "label": "Luscious",
+        "link": "https://www.powerthesaurus.org/${label}/synonyms"
+      },
+      {
+        "label": "Lush",
+        "link": "https://www.powerthesaurus.org/${label}/synonyms"
+      },
+      {
+        "label": "Lust",
+        "link": "https://www.powerthesaurus.org/${label}/synonyms"
+      },
+      {
+        "label": "Mischievous",
         "link": "https://www.powerthesaurus.org/${label}/synonyms"
       },
       {
@@ -240,7 +808,103 @@
         "link": "https://www.powerthesaurus.org/${label}/synonyms"
       },
       {
-        "label": "Nail",
+        "label": "Naughty",
+        "link": "https://www.powerthesaurus.org/${label}/synonyms"
+      },
+      {
+        "label": "Nude",
+        "link": "https://www.powerthesaurus.org/${label}/synonyms"
+      },
+      {
+        "label": "Obscene",
+        "link": "https://www.powerthesaurus.org/${label}/synonyms"
+      },
+      {
+        "label": "Orgasmic",
+        "link": "https://www.powerthesaurus.org/${label}/synonyms"
+      },
+      {
+        "label": "Passionate",
+        "link": "https://www.powerthesaurus.org/${label}/synonyms"
+      },
+      {
+        "label": "Pining",
+        "link": "https://www.powerthesaurus.org/${label}/synonyms"
+      },
+      {
+        "label": "Pleasure",
+        "link": "https://www.powerthesaurus.org/${label}/synonyms"
+      },
+      {
+        "label": "Provocative",
+        "link": "https://www.powerthesaurus.org/${label}/synonyms"
+      },
+      {
+        "label": "Racy",
+        "link": "https://www.powerthesaurus.org/${label}/synonyms"
+      },
+      {
+        "label": "Raunchy",
+        "link": "https://www.powerthesaurus.org/${label}/synonyms"
+      },
+      {
+        "label": "Risque",
+        "link": "https://www.powerthesaurus.org/${label}/synonyms"
+      },
+      {
+        "label": "Rowdy",
+        "link": "https://www.powerthesaurus.org/${label}/synonyms"
+      },
+      {
+        "label": "Salacious",
+        "link": "https://www.powerthesaurus.org/${label}/synonyms"
+      },
+      {
+        "label": "Satisfy",
+        "link": "https://www.powerthesaurus.org/${label}/synonyms"
+      },
+      {
+        "label": "Saucy",
+        "link": "https://www.powerthesaurus.org/${label}/synonyms"
+      },
+      {
+        "label": "Scandalous",
+        "link": "https://www.powerthesaurus.org/${label}/synonyms"
+      },
+      {
+        "label": "Seduce",
+        "link": "https://www.powerthesaurus.org/${label}/synonyms"
+      },
+      {
+        "label": "Seductive",
+        "link": "https://www.powerthesaurus.org/${label}/synonyms"
+      },
+      {
+        "label": "Sensual",
+        "link": "https://www.powerthesaurus.org/${label}/synonyms"
+      },
+      {
+        "label": "Sexy",
+        "link": "https://www.powerthesaurus.org/${label}/synonyms"
+      },
+      {
+        "label": "Shameless",
+        "link": "https://www.powerthesaurus.org/${label}/synonyms"
+      },
+      {
+        "label": "Sinful",
+        "link": "https://www.powerthesaurus.org/${label}/synonyms"
+      },
+      {
+        "label": "Sleazy",
+        "link": "https://www.powerthesaurus.org/${label}/synonyms"
+      },
+      {
+        "label": "Sleeping",
+        "link": "https://www.powerthesaurus.org/${label}/synonyms"
+      },
+      {
+        "label": "Spank",
         "link": "https://www.powerthesaurus.org/${label}/synonyms"
       },
       {
@@ -248,33 +912,228 @@
         "link": "https://www.powerthesaurus.org/${label}/synonyms"
       },
       {
-        "label": "Sublime",
+        "label": "Spicy",
         "link": "https://www.powerthesaurus.org/${label}/synonyms"
       },
       {
-        "label": "Triumph",
+        "label": "Steamy",
         "link": "https://www.powerthesaurus.org/${label}/synonyms"
       },
       {
-        "label": "Unbelievable",
+        "label": "Stimulating",
         "link": "https://www.powerthesaurus.org/${label}/synonyms"
       },
       {
-        "label": "Unleashed",
+        "label": "Strip",
         "link": "https://www.powerthesaurus.org/${label}/synonyms"
       },
       {
-        "label": "Polarizing",
+        "label": "Sweaty",
         "link": "https://www.powerthesaurus.org/${label}/synonyms"
       },
       {
-        "label": "Dominate",
+        "label": "Tantalizing",
+        "link": "https://www.powerthesaurus.org/${label}/synonyms"
+      },
+      {
+        "label": "Taste",
+        "link": "https://www.powerthesaurus.org/${label}/synonyms"
+      },
+      {
+        "label": "Tawdry",
+        "link": "https://www.powerthesaurus.org/${label}/synonyms"
+      },
+      {
+        "label": "Tease",
+        "link": "https://www.powerthesaurus.org/${label}/synonyms"
+      },
+      {
+        "label": "Tempting",
+        "link": "https://www.powerthesaurus.org/${label}/synonyms"
+      },
+      {
+        "label": "Thrilling",
+        "link": "https://www.powerthesaurus.org/${label}/synonyms"
+      },
+      {
+        "label": "Tickle",
+        "link": "https://www.powerthesaurus.org/${label}/synonyms"
+      },
+      {
+        "label": "Tight",
+        "link": "https://www.powerthesaurus.org/${label}/synonyms"
+      },
+      {
+        "label": "Tingle",
+        "link": "https://www.powerthesaurus.org/${label}/synonyms"
+      },
+      {
+        "label": "Turn on",
+        "link": "https://www.powerthesaurus.org/${label}/synonyms"
+      },
+      {
+        "label": "Unabashed",
+        "link": "https://www.powerthesaurus.org/${label}/synonyms"
+      },
+      {
+        "label": "Uncensored",
+        "link": "https://www.powerthesaurus.org/${label}/synonyms"
+      },
+      {
+        "label": "Untamed",
+        "link": "https://www.powerthesaurus.org/${label}/synonyms"
+      },
+      {
+        "label": "Untouched",
+        "link": "https://www.powerthesaurus.org/${label}/synonyms"
+      },
+      {
+        "label": "Urge",
+        "link": "https://www.powerthesaurus.org/${label}/synonyms"
+      },
+      {
+        "label": "Voluptuous",
+        "link": "https://www.powerthesaurus.org/${label}/synonyms"
+      },
+      {
+        "label": "Vulgar",
+        "link": "https://www.powerthesaurus.org/${label}/synonyms"
+      },
+      {
+        "label": "Wanton",
+        "link": "https://www.powerthesaurus.org/${label}/synonyms"
+      },
+      {
+        "label": "Wet",
+        "link": "https://www.powerthesaurus.org/${label}/synonyms"
+      },
+      {
+        "label": "Whip",
+        "link": "https://www.powerthesaurus.org/${label}/synonyms"
+      },
+      {
+        "label": "Wild",
+        "link": "https://www.powerthesaurus.org/${label}/synonyms"
+      },
+      {
+        "label": "X-rated",
+        "link": "https://www.powerthesaurus.org/${label}/synonyms"
+      },
+      {
+        "label": "Yearning",
+        "link": "https://www.powerthesaurus.org/${label}/synonyms"
+      },
+      {
+        "label": "Yearning",
         "link": "https://www.powerthesaurus.org/${label}/synonyms"
       }
     ]
   },
   {
-    "label": "Happiness",
+    "label": "🍻 Indulgence",
+    "submenu": [
+      {
+        "label": "Guilt",
+        "link": "https://www.powerthesaurus.org/${label}/synonyms"
+      },
+      {
+        "label": "Guilt-free",
+        "link": "https://www.powerthesaurus.org/${label}/synonyms"
+      },
+      {
+        "label": "Indulgent",
+        "link": "https://www.powerthesaurus.org/${label}/synonyms"
+      },
+      {
+        "label": "Obsessed",
+        "link": "https://www.powerthesaurus.org/${label}/synonyms"
+      },
+      {
+        "label": "Ravenous",
+        "link": "https://www.powerthesaurus.org/${label}/synonyms"
+      },
+      {
+        "label": "Lazy",
+        "link": "https://www.powerthesaurus.org/${label}/synonyms"
+      }
+    ]
+  },
+  {
+    "label": "🛸 Gravity",
+    "submenu": [
+      {
+        "label": "Gargantuan",
+        "link": "https://www.powerthesaurus.org/${label}/synonyms"
+      },
+      {
+        "label": "Gigantic",
+        "link": "https://www.powerthesaurus.org/${label}/synonyms"
+      },
+      {
+        "label": "Huge",
+        "link": "https://www.powerthesaurus.org/${label}/synonyms"
+      },
+      {
+        "label": "Intense",
+        "link": "https://www.powerthesaurus.org/${label}/synonyms"
+      },
+      {
+        "label": "Massive",
+        "link": "https://www.powerthesaurus.org/${label}/synonyms"
+      },
+      {
+        "label": "Gripping",
+        "link": "https://www.powerthesaurus.org/${label}/synonyms"
+      },
+      {
+        "label": "Goddamn",
+        "link": "https://www.powerthesaurus.org/${label}/synonyms"
+      },
+      {
+        "label": "Seriously",
+        "link": "https://www.powerthesaurus.org/${label}/synonyms"
+      }
+    ]
+  },
+  {
+    "label": "😋 Excitement",
+    "submenu": [
+      {
+        "label": "Bold",
+        "link": "https://www.powerthesaurus.org/${label}/synonyms"
+      },
+      {
+        "label": "Exciting",
+        "link": "https://www.powerthesaurus.org/${label}/synonyms"
+      },
+      {
+        "label": "Fascinating",
+        "link": "https://www.powerthesaurus.org/${label}/synonyms"
+      },
+      {
+        "label": "Intriguing",
+        "link": "https://www.powerthesaurus.org/${label}/synonyms"
+      },
+      {
+        "label": "Riveting",
+        "link": "https://www.powerthesaurus.org/${label}/synonyms"
+      },
+      {
+        "label": "Tempting",
+        "link": "https://www.powerthesaurus.org/${label}/synonyms"
+      },
+      {
+        "label": "Thrilling",
+        "link": "https://www.powerthesaurus.org/${label}/synonyms"
+      },
+      {
+        "label": "Transform",
+        "link": "https://www.powerthesaurus.org/${label}/synonyms"
+      }
+    ]
+  },
+  {
+    "label": "😄 Happiness",
     "submenu": [
       {
         "label": "Heartwarming",
@@ -322,14 +1181,2676 @@
       }
     ]
   },
-  { "type": "separator" },
   {
-    "label": "Tech for All on Medium",
-    "link": "https://medium.com/techforall"
+    "label": "🔮 Completeness",
+    "submenu": [
+      {
+        "label": "Best",
+        "link": "https://www.powerthesaurus.org/${label}/synonyms"
+      },
+      {
+        "label": "Better",
+        "link": "https://www.powerthesaurus.org/${label}/synonyms"
+      },
+      {
+        "label": "Completely",
+        "link": "https://www.powerthesaurus.org/${label}/synonyms"
+      },
+      {
+        "label": "Copy",
+        "link": "https://www.powerthesaurus.org/${label}/synonyms"
+      },
+      {
+        "label": "Create",
+        "link": "https://www.powerthesaurus.org/${label}/synonyms"
+      },
+      {
+        "label": "Deep",
+        "link": "https://www.powerthesaurus.org/${label}/synonyms"
+      },
+      {
+        "label": "Detailed",
+        "link": "https://www.powerthesaurus.org/${label}/synonyms"
+      },
+      {
+        "label": "Essential",
+        "link": "https://www.powerthesaurus.org/${label}/synonyms"
+      },
+      {
+        "label": "Extremely",
+        "link": "https://www.powerthesaurus.org/${label}/synonyms"
+      },
+      {
+        "label": "Impenetrable",
+        "link": "https://www.powerthesaurus.org/${label}/synonyms"
+      },
+      {
+        "label": "Master",
+        "link": "https://www.powerthesaurus.org/${label}/synonyms"
+      },
+      {
+        "label": "Meticulous",
+        "link": "https://www.powerthesaurus.org/${label}/synonyms"
+      },
+      {
+        "label": "Overcome",
+        "link": "https://www.powerthesaurus.org/${label}/synonyms"
+      },
+      {
+        "label": "Packed",
+        "link": "https://www.powerthesaurus.org/${label}/synonyms"
+      },
+      {
+        "label": "Painstaking",
+        "link": "https://www.powerthesaurus.org/${label}/synonyms"
+      },
+      {
+        "label": "Perfect",
+        "link": "https://www.powerthesaurus.org/${label}/synonyms"
+      },
+      {
+        "label": "Practical",
+        "link": "https://www.powerthesaurus.org/${label}/synonyms"
+      },
+      {
+        "label": "Recreate",
+        "link": "https://www.powerthesaurus.org/${label}/synonyms"
+      },
+      {
+        "label": "Relentless",
+        "link": "https://www.powerthesaurus.org/${label}/synonyms"
+      },
+      {
+        "label": "Replicate",
+        "link": "https://www.powerthesaurus.org/${label}/synonyms"
+      },
+      {
+        "label": "Step-by-Step",
+        "link": "https://www.powerthesaurus.org/${label}/synonyms"
+      },
+      {
+        "label": "Super",
+        "link": "https://www.powerthesaurus.org/${label}/synonyms"
+      },
+      {
+        "label": "Truly",
+        "link": "https://www.powerthesaurus.org/${label}/synonyms"
+      },
+      {
+        "label": "Ultimate",
+        "link": "https://www.powerthesaurus.org/${label}/synonyms"
+      }
+    ]
+  },
+  {
+    "label": "🖲 Simplicity",
+    "submenu": [
+      {
+        "label": "Basic",
+        "link": "https://www.powerthesaurus.org/${label}/synonyms"
+      },
+      {
+        "label": "Cheat-Sheet",
+        "link": "https://www.powerthesaurus.org/${label}/synonyms"
+      },
+      {
+        "label": "Easy",
+        "link": "https://www.powerthesaurus.org/${label}/synonyms"
+      },
+      {
+        "label": "Effortless",
+        "link": "https://www.powerthesaurus.org/${label}/synonyms"
+      },
+      {
+        "label": "Ingredients",
+        "link": "https://www.powerthesaurus.org/${label}/synonyms"
+      },
+      {
+        "label": "Minimalist",
+        "link": "https://www.powerthesaurus.org/${label}/synonyms"
+      },
+      {
+        "label": "On-Demand",
+        "link": "https://www.powerthesaurus.org/${label}/synonyms"
+      },
+      {
+        "label": "Painless",
+        "link": "https://www.powerthesaurus.org/${label}/synonyms"
+      },
+      {
+        "label": "Rules",
+        "link": "https://www.powerthesaurus.org/${label}/synonyms"
+      },
+      {
+        "label": "Savvy",
+        "link": "https://www.powerthesaurus.org/${label}/synonyms"
+      },
+      {
+        "label": "Simple",
+        "link": "https://www.powerthesaurus.org/${label}/synonyms"
+      },
+      {
+        "label": "Step-by-Step",
+        "link": "https://www.powerthesaurus.org/${label}/synonyms"
+      },
+      {
+        "label": "Stupid-simple",
+        "link": "https://www.powerthesaurus.org/${label}/synonyms"
+      },
+      {
+        "label": "Tricks",
+        "link": "https://www.powerthesaurus.org/${label}/synonyms"
+      },
+      {
+        "label": "Tweaks",
+        "link": "https://www.powerthesaurus.org/${label}/synonyms"
+      }
+    ]
+  },
+  {
+    "label": "🐷 Beauty",
+    "submenu": [
+      {
+        "label": "Adorable",
+        "link": "https://www.powerthesaurus.org/${label}/synonyms"
+      },
+      {
+        "label": "Awe-Inspiring",
+        "link": "https://www.powerthesaurus.org/${label}/synonyms"
+      },
+      {
+        "label": "Beautiful",
+        "link": "https://www.powerthesaurus.org/${label}/synonyms"
+      },
+      {
+        "label": "Breathtaking",
+        "link": "https://www.powerthesaurus.org/${label}/synonyms"
+      },
+      {
+        "label": "Dazzling",
+        "link": "https://www.powerthesaurus.org/${label}/synonyms"
+      },
+      {
+        "label": "Gorgeous",
+        "link": "https://www.powerthesaurus.org/${label}/synonyms"
+      },
+      {
+        "label": "Stunning",
+        "link": "https://www.powerthesaurus.org/${label}/synonyms"
+      },
+      {
+        "label": "Swoon",
+        "link": "https://www.powerthesaurus.org/${label}/synonyms"
+      },
+      {
+        "label": "Swoon-worthy",
+        "link": "https://www.powerthesaurus.org/${label}/synonyms"
+      }
+    ]
+  },
+  {
+    "label": "✨ Novelty",
+    "submenu": [
+      {
+        "label": "Challenge",
+        "link": "https://www.powerthesaurus.org/${label}/synonyms"
+      },
+      {
+        "label": "Discover",
+        "link": "https://www.powerthesaurus.org/${label}/synonyms"
+      },
+      {
+        "label": "Extraordinary",
+        "link": "https://www.powerthesaurus.org/${label}/synonyms"
+      },
+      {
+        "label": "Hack",
+        "link": "https://www.powerthesaurus.org/${label}/synonyms"
+      },
+      {
+        "label": "Latest",
+        "link": "https://www.powerthesaurus.org/${label}/synonyms"
+      },
+      {
+        "label": "Life-changing",
+        "link": "https://www.powerthesaurus.org/${label}/synonyms"
+      },
+      {
+        "label": "Magic",
+        "link": "https://www.powerthesaurus.org/${label}/synonyms"
+      },
+      {
+        "label": "Miracle",
+        "link": "https://www.powerthesaurus.org/${label}/synonyms"
+      },
+      {
+        "label": "New",
+        "link": "https://www.powerthesaurus.org/${label}/synonyms"
+      },
+      {
+        "label": "Odd",
+        "link": "https://www.powerthesaurus.org/${label}/synonyms"
+      },
+      {
+        "label": "Remarkable",
+        "link": "https://www.powerthesaurus.org/${label}/synonyms"
+      },
+      {
+        "label": "Revolutionary",
+        "link": "https://www.powerthesaurus.org/${label}/synonyms"
+      },
+      {
+        "label": "Sensational",
+        "link": "https://www.powerthesaurus.org/${label}/synonyms"
+      },
+      {
+        "label": "Shocking",
+        "link": "https://www.powerthesaurus.org/${label}/synonyms"
+      },
+      {
+        "label": "Spoiler",
+        "link": "https://www.powerthesaurus.org/${label}/synonyms"
+      },
+      {
+        "label": "Startling",
+        "link": "https://www.powerthesaurus.org/${label}/synonyms"
+      },
+      {
+        "label": "Suddenly",
+        "link": "https://www.powerthesaurus.org/${label}/synonyms"
+      },
+      {
+        "label": "Surprising",
+        "link": "https://www.powerthesaurus.org/${label}/synonyms"
+      },
+      {
+        "label": "Strange",
+        "link": "https://www.powerthesaurus.org/${label}/synonyms"
+      },
+      {
+        "label": "Unexpected",
+        "link": "https://www.powerthesaurus.org/${label}/synonyms"
+      },
+      {
+        "label": "Unusual",
+        "link": "https://www.powerthesaurus.org/${label}/synonyms"
+      },
+      {
+        "label": "Weird",
+        "link": "https://www.powerthesaurus.org/${label}/synonyms"
+      }
+    ]
+  },
+  {
+    "label": "😬 Memorability",
+    "submenu": [
+      {
+        "label": "Captivate",
+        "link": "https://www.powerthesaurus.org/${label}/synonyms"
+      },
+      {
+        "label": "Embarrassing",
+        "link": "https://www.powerthesaurus.org/${label}/synonyms"
+      },
+      {
+        "label": "Genius",
+        "link": "https://www.powerthesaurus.org/${label}/synonyms"
+      },
+      {
+        "label": "Impressive",
+        "link": "https://www.powerthesaurus.org/${label}/synonyms"
+      },
+      {
+        "label": "Memorable",
+        "link": "https://www.powerthesaurus.org/${label}/synonyms"
+      },
+      {
+        "label": "Undeniable",
+        "link": "https://www.powerthesaurus.org/${label}/synonyms"
+      },
+      {
+        "label": "Unforgettable",
+        "link": "https://www.powerthesaurus.org/${label}/synonyms"
+      },
+      {
+        "label": "Unpopular",
+        "link": "https://www.powerthesaurus.org/${label}/synonyms"
+      }
+    ]
+  },
+  {
+    "label": "🤗 Safety",
+    "submenu": [
+      {
+        "label": "Above and beyond",
+        "link": "https://www.powerthesaurus.org/${label}/synonyms"
+      },
+      {
+        "label": "Anonymous",
+        "link": "https://www.powerthesaurus.org/${label}/synonyms"
+      },
+      {
+        "label": "Authentic",
+        "link": "https://www.powerthesaurus.org/${label}/synonyms"
+      },
+      {
+        "label": "Automatic",
+        "link": "https://www.powerthesaurus.org/${label}/synonyms"
+      },
+      {
+        "label": "Backed",
+        "link": "https://www.powerthesaurus.org/${label}/synonyms"
+      },
+      {
+        "label": "Bankable",
+        "link": "https://www.powerthesaurus.org/${label}/synonyms"
+      },
+      {
+        "label": "Best-selling",
+        "link": "https://www.powerthesaurus.org/${label}/synonyms"
+      },
+      {
+        "label": "Certified",
+        "link": "https://www.powerthesaurus.org/${label}/synonyms"
+      },
+      {
+        "label": "Clockwork",
+        "link": "https://www.powerthesaurus.org/${label}/synonyms"
+      },
+      {
+        "label": "Endorsed",
+        "link": "https://www.powerthesaurus.org/${label}/synonyms"
+      },
+      {
+        "label": "Foolproof",
+        "link": "https://www.powerthesaurus.org/${label}/synonyms"
+      },
+      {
+        "label": "Guaranteed",
+        "link": "https://www.powerthesaurus.org/${label}/synonyms"
+      },
+      {
+        "label": "Ironclad",
+        "link": "https://www.powerthesaurus.org/${label}/synonyms"
+      },
+      {
+        "label": "Legitimate",
+        "link": "https://www.powerthesaurus.org/${label}/synonyms"
+      },
+      {
+        "label": "Lifetime",
+        "link": "https://www.powerthesaurus.org/${label}/synonyms"
+      },
+      {
+        "label": "Money-back",
+        "link": "https://www.powerthesaurus.org/${label}/synonyms"
+      },
+      {
+        "label": "No obligation",
+        "link": "https://www.powerthesaurus.org/${label}/synonyms"
+      },
+      {
+        "label": "No questions asked",
+        "link": "https://www.powerthesaurus.org/${label}/synonyms"
+      },
+      {
+        "label": "No risk",
+        "link": "https://www.powerthesaurus.org/${label}/synonyms"
+      },
+      {
+        "label": "No strings attached",
+        "link": "https://www.powerthesaurus.org/${label}/synonyms"
+      },
+      {
+        "label": "Official",
+        "link": "https://www.powerthesaurus.org/${label}/synonyms"
+      },
+      {
+        "label": "Permanent",
+        "link": "https://www.powerthesaurus.org/${label}/synonyms"
+      },
+      {
+        "label": "Guilt-free",
+        "link": "https://www.powerthesaurus.org/${label}/synonyms"
+      },
+      {
+        "label": "Privacy",
+        "link": "https://www.powerthesaurus.org/${label}/synonyms"
+      },
+      {
+        "label": "Professional",
+        "link": "https://www.powerthesaurus.org/${label}/synonyms"
+      },
+      {
+        "label": "Protected",
+        "link": "https://www.powerthesaurus.org/${label}/synonyms"
+      },
+      {
+        "label": "Proven",
+        "link": "https://www.powerthesaurus.org/${label}/synonyms"
+      },
+      {
+        "label": "Recession-proof",
+        "link": "https://www.powerthesaurus.org/${label}/synonyms"
+      },
+      {
+        "label": "Refund",
+        "link": "https://www.powerthesaurus.org/${label}/synonyms"
+      },
+      {
+        "label": "Reliable",
+        "link": "https://www.powerthesaurus.org/${label}/synonyms"
+      },
+      {
+        "label": "Research",
+        "link": "https://www.powerthesaurus.org/${label}/synonyms"
+      },
+      {
+        "label": "Results",
+        "link": "https://www.powerthesaurus.org/${label}/synonyms"
+      },
+      {
+        "label": "Risk-free",
+        "link": "https://www.powerthesaurus.org/${label}/synonyms"
+      },
+      {
+        "label": "Rock-solid",
+        "link": "https://www.powerthesaurus.org/${label}/synonyms"
+      },
+      {
+        "label": "Scientific",
+        "link": "https://www.powerthesaurus.org/${label}/synonyms"
+      },
+      {
+        "label": "Secure",
+        "link": "https://www.powerthesaurus.org/${label}/synonyms"
+      },
+      {
+        "label": "Sure-fire",
+        "link": "https://www.powerthesaurus.org/${label}/synonyms"
+      },
+      {
+        "label": "Survive",
+        "link": "https://www.powerthesaurus.org/${label}/synonyms"
+      },
+      {
+        "label": "Tested",
+        "link": "https://www.powerthesaurus.org/${label}/synonyms"
+      },
+      {
+        "label": "Thorough",
+        "link": "https://www.powerthesaurus.org/${label}/synonyms"
+      },
+      {
+        "label": "Trustworthy",
+        "link": "https://www.powerthesaurus.org/${label}/synonyms"
+      },
+      {
+        "label": "Unconditional",
+        "link": "https://www.powerthesaurus.org/${label}/synonyms"
+      },
+      {
+        "label": "Verify",
+        "link": "https://www.powerthesaurus.org/${label}/synonyms"
+      },
+      {
+        "label": "World-class",
+        "link": "https://www.powerthesaurus.org/${label}/synonyms"
+      }
+    ]
+  },
+  {
+    "label": "👿 Anger",
+    "submenu": [
+      {
+        "label": "Abhorrent",
+        "link": "https://www.powerthesaurus.org/${label}/synonyms"
+      },
+      {
+        "label": "Abuse",
+        "link": "https://www.powerthesaurus.org/${label}/synonyms"
+      },
+      {
+        "label": "Annoying",
+        "link": "https://www.powerthesaurus.org/${label}/synonyms"
+      },
+      {
+        "label": "Arrogant",
+        "link": "https://www.powerthesaurus.org/${label}/synonyms"
+      },
+      {
+        "label": "Ass kicking",
+        "link": "https://www.powerthesaurus.org/${label}/synonyms"
+      },
+      {
+        "label": "Backstabbing",
+        "link": "https://www.powerthesaurus.org/${label}/synonyms"
+      },
+      {
+        "label": "Barbaric",
+        "link": "https://www.powerthesaurus.org/${label}/synonyms"
+      },
+      {
+        "label": "Bash",
+        "link": "https://www.powerthesaurus.org/${label}/synonyms"
+      },
+      {
+        "label": "Beat down",
+        "link": "https://www.powerthesaurus.org/${label}/synonyms"
+      },
+      {
+        "label": "Big mouth",
+        "link": "https://www.powerthesaurus.org/${label}/synonyms"
+      },
+      {
+        "label": "Blatant",
+        "link": "https://www.powerthesaurus.org/${label}/synonyms"
+      },
+      {
+        "label": "Brutal",
+        "link": "https://www.powerthesaurus.org/${label}/synonyms"
+      },
+      {
+        "label": "Bullshit",
+        "link": "https://www.powerthesaurus.org/${label}/synonyms"
+      },
+      {
+        "label": "Bully",
+        "link": "https://www.powerthesaurus.org/${label}/synonyms"
+      },
+      {
+        "label": "Cheat",
+        "link": "https://www.powerthesaurus.org/${label}/synonyms"
+      },
+      {
+        "label": "Clobber",
+        "link": "https://www.powerthesaurus.org/${label}/synonyms"
+      },
+      {
+        "label": "Clown",
+        "link": "https://www.powerthesaurus.org/${label}/synonyms"
+      },
+      {
+        "label": "Cocky",
+        "link": "https://www.powerthesaurus.org/${label}/synonyms"
+      },
+      {
+        "label": "Corrupt",
+        "link": "https://www.powerthesaurus.org/${label}/synonyms"
+      },
+      {
+        "label": "Coward",
+        "link": "https://www.powerthesaurus.org/${label}/synonyms"
+      },
+      {
+        "label": "Crooked",
+        "link": "https://www.powerthesaurus.org/${label}/synonyms"
+      },
+      {
+        "label": "Crush",
+        "link": "https://www.powerthesaurus.org/${label}/synonyms"
+      },
+      {
+        "label": "Curse",
+        "link": "https://www.powerthesaurus.org/${label}/synonyms"
+      },
+      {
+        "label": "Debase",
+        "link": "https://www.powerthesaurus.org/${label}/synonyms"
+      },
+      {
+        "label": "Defile",
+        "link": "https://www.powerthesaurus.org/${label}/synonyms"
+      },
+      {
+        "label": "Delinquent",
+        "link": "https://www.powerthesaurus.org/${label}/synonyms"
+      },
+      {
+        "label": "Demolish",
+        "link": "https://www.powerthesaurus.org/${label}/synonyms"
+      },
+      {
+        "label": "Desecrate",
+        "link": "https://www.powerthesaurus.org/${label}/synonyms"
+      },
+      {
+        "label": "Disgusting",
+        "link": "https://www.powerthesaurus.org/${label}/synonyms"
+      },
+      {
+        "label": "Dishonest",
+        "link": "https://www.powerthesaurus.org/${label}/synonyms"
+      },
+      {
+        "label": "Distorted",
+        "link": "https://www.powerthesaurus.org/${label}/synonyms"
+      },
+      {
+        "label": "Evil",
+        "link": "https://www.powerthesaurus.org/${label}/synonyms"
+      },
+      {
+        "label": "Exploit",
+        "link": "https://www.powerthesaurus.org/${label}/synonyms"
+      },
+      {
+        "label": "Force-fed",
+        "link": "https://www.powerthesaurus.org/${label}/synonyms"
+      },
+      {
+        "label": "Foul",
+        "link": "https://www.powerthesaurus.org/${label}/synonyms"
+      },
+      {
+        "label": "Freaking out",
+        "link": "https://www.powerthesaurus.org/${label}/synonyms"
+      },
+      {
+        "label": "Full of shit",
+        "link": "https://www.powerthesaurus.org/${label}/synonyms"
+      },
+      {
+        "label": "Greedy",
+        "link": "https://www.powerthesaurus.org/${label}/synonyms"
+      },
+      {
+        "label": "Gross",
+        "link": "https://www.powerthesaurus.org/${label}/synonyms"
+      },
+      {
+        "label": "Harass",
+        "link": "https://www.powerthesaurus.org/${label}/synonyms"
+      },
+      {
+        "label": "Hate",
+        "link": "https://www.powerthesaurus.org/${label}/synonyms"
+      },
+      {
+        "label": "High and mighty",
+        "link": "https://www.powerthesaurus.org/${label}/synonyms"
+      },
+      {
+        "label": "Horrid",
+        "link": "https://www.powerthesaurus.org/${label}/synonyms"
+      },
+      {
+        "label": "Infuriating",
+        "link": "https://www.powerthesaurus.org/${label}/synonyms"
+      },
+      {
+        "label": "Jackass",
+        "link": "https://www.powerthesaurus.org/${label}/synonyms"
+      },
+      {
+        "label": "Kick",
+        "link": "https://www.powerthesaurus.org/${label}/synonyms"
+      },
+      {
+        "label": "Kill",
+        "link": "https://www.powerthesaurus.org/${label}/synonyms"
+      },
+      {
+        "label": "Knock",
+        "link": "https://www.powerthesaurus.org/${label}/synonyms"
+      },
+      {
+        "label": "Knock out",
+        "link": "https://www.powerthesaurus.org/${label}/synonyms"
+      },
+      {
+        "label": "Know it all",
+        "link": "https://www.powerthesaurus.org/${label}/synonyms"
+      },
+      {
+        "label": "Loathsome",
+        "link": "https://www.powerthesaurus.org/${label}/synonyms"
+      },
+      {
+        "label": "Loser",
+        "link": "https://www.powerthesaurus.org/${label}/synonyms"
+      },
+      {
+        "label": "Lying",
+        "link": "https://www.powerthesaurus.org/${label}/synonyms"
+      },
+      {
+        "label": "Misleading",
+        "link": "https://www.powerthesaurus.org/${label}/synonyms"
+      },
+      {
+        "label": "Lies",
+        "link": "https://www.powerthesaurus.org/${label}/synonyms"
+      },
+      {
+        "label": "Livid",
+        "link": "https://www.powerthesaurus.org/${label}/synonyms"
+      },
+      {
+        "label": "Money-grubbing",
+        "link": "https://www.powerthesaurus.org/${label}/synonyms"
+      },
+      {
+        "label": "Nasty",
+        "link": "https://www.powerthesaurus.org/${label}/synonyms"
+      },
+      {
+        "label": "Nazi",
+        "link": "https://www.powerthesaurus.org/${label}/synonyms"
+      },
+      {
+        "label": "No good",
+        "link": "https://www.powerthesaurus.org/${label}/synonyms"
+      },
+      {
+        "label": "Obnoxious",
+        "link": "https://www.powerthesaurus.org/${label}/synonyms"
+      },
+      {
+        "label": "Oppressive",
+        "link": "https://www.powerthesaurus.org/${label}/synonyms"
+      },
+      {
+        "label": "Pain in the ass",
+        "link": "https://www.powerthesaurus.org/${label}/synonyms"
+      },
+      {
+        "label": "Payback",
+        "link": "https://www.powerthesaurus.org/${label}/synonyms"
+      },
+      {
+        "label": "Perverse",
+        "link": "https://www.powerthesaurus.org/${label}/synonyms"
+      },
+      {
+        "label": "Pesky",
+        "link": "https://www.powerthesaurus.org/${label}/synonyms"
+      },
+      {
+        "label": "Pest",
+        "link": "https://www.powerthesaurus.org/${label}/synonyms"
+      },
+      {
+        "label": "Phony",
+        "link": "https://www.powerthesaurus.org/${label}/synonyms"
+      },
+      {
+        "label": "Pissed off",
+        "link": "https://www.powerthesaurus.org/${label}/synonyms"
+      },
+      {
+        "label": "Pollute",
+        "link": "https://www.powerthesaurus.org/${label}/synonyms"
+      },
+      {
+        "label": "Pompous",
+        "link": "https://www.powerthesaurus.org/${label}/synonyms"
+      },
+      {
+        "label": "Pound",
+        "link": "https://www.powerthesaurus.org/${label}/synonyms"
+      },
+      {
+        "label": "Preposterous",
+        "link": "https://www.powerthesaurus.org/${label}/synonyms"
+      },
+      {
+        "label": "Pretentious",
+        "link": "https://www.powerthesaurus.org/${label}/synonyms"
+      },
+      {
+        "label": "Punch",
+        "link": "https://www.powerthesaurus.org/${label}/synonyms"
+      },
+      {
+        "label": "Punish",
+        "link": "https://www.powerthesaurus.org/${label}/synonyms"
+      },
+      {
+        "label": "Rampant",
+        "link": "https://www.powerthesaurus.org/${label}/synonyms"
+      },
+      {
+        "label": "Ravage",
+        "link": "https://www.powerthesaurus.org/${label}/synonyms"
+      },
+      {
+        "label": "Repelling",
+        "link": "https://www.powerthesaurus.org/${label}/synonyms"
+      },
+      {
+        "label": "Repugnant",
+        "link": "https://www.powerthesaurus.org/${label}/synonyms"
+      },
+      {
+        "label": "Revile",
+        "link": "https://www.powerthesaurus.org/${label}/synonyms"
+      },
+      {
+        "label": "Revolting",
+        "link": "https://www.powerthesaurus.org/${label}/synonyms"
+      },
+      {
+        "label": "Rotten",
+        "link": "https://www.powerthesaurus.org/${label}/synonyms"
+      },
+      {
+        "label": "Rude",
+        "link": "https://www.powerthesaurus.org/${label}/synonyms"
+      },
+      {
+        "label": "Ruined",
+        "link": "https://www.powerthesaurus.org/${label}/synonyms"
+      },
+      {
+        "label": "Ruthless",
+        "link": "https://www.powerthesaurus.org/${label}/synonyms"
+      },
+      {
+        "label": "Savage",
+        "link": "https://www.powerthesaurus.org/${label}/synonyms"
+      },
+      {
+        "label": "Scam",
+        "link": "https://www.powerthesaurus.org/${label}/synonyms"
+      },
+      {
+        "label": "Scold",
+        "link": "https://www.powerthesaurus.org/${label}/synonyms"
+      },
+      {
+        "label": "Sick and tired",
+        "link": "https://www.powerthesaurus.org/${label}/synonyms"
+      },
+      {
+        "label": "Sink",
+        "link": "https://www.powerthesaurus.org/${label}/synonyms"
+      },
+      {
+        "label": "Slam",
+        "link": "https://www.powerthesaurus.org/${label}/synonyms"
+      },
+      {
+        "label": "Slander",
+        "link": "https://www.powerthesaurus.org/${label}/synonyms"
+      },
+      {
+        "label": "Slap",
+        "link": "https://www.powerthesaurus.org/${label}/synonyms"
+      },
+      {
+        "label": "Slay",
+        "link": "https://www.powerthesaurus.org/${label}/synonyms"
+      },
+      {
+        "label": "Smash",
+        "link": "https://www.powerthesaurus.org/${label}/synonyms"
+      },
+      {
+        "label": "Smear",
+        "link": "https://www.powerthesaurus.org/${label}/synonyms"
+      },
+      {
+        "label": "Smug",
+        "link": "https://www.powerthesaurus.org/${label}/synonyms"
+      },
+      {
+        "label": "Sniveling",
+        "link": "https://www.powerthesaurus.org/${label}/synonyms"
+      },
+      {
+        "label": "Snob",
+        "link": "https://www.powerthesaurus.org/${label}/synonyms"
+      },
+      {
+        "label": "Snooty",
+        "link": "https://www.powerthesaurus.org/${label}/synonyms"
+      },
+      {
+        "label": "Snotty",
+        "link": "https://www.powerthesaurus.org/${label}/synonyms"
+      },
+      {
+        "label": "Spoil",
+        "link": "https://www.powerthesaurus.org/${label}/synonyms"
+      },
+      {
+        "label": "Stuck up",
+        "link": "https://www.powerthesaurus.org/${label}/synonyms"
+      },
+      {
+        "label": "Suck",
+        "link": "https://www.powerthesaurus.org/${label}/synonyms"
+      },
+      {
+        "label": "Terrorize",
+        "link": "https://www.powerthesaurus.org/${label}/synonyms"
+      },
+      {
+        "label": "Trash",
+        "link": "https://www.powerthesaurus.org/${label}/synonyms"
+      },
+      {
+        "label": "Trounce",
+        "link": "https://www.powerthesaurus.org/${label}/synonyms"
+      },
+      {
+        "label": "Tyranny",
+        "link": "https://www.powerthesaurus.org/${label}/synonyms"
+      },
+      {
+        "label": "Underhanded",
+        "link": "https://www.powerthesaurus.org/${label}/synonyms"
+      },
+      {
+        "label": "Up to here",
+        "link": "https://www.powerthesaurus.org/${label}/synonyms"
+      },
+      {
+        "label": "Useless",
+        "link": "https://www.powerthesaurus.org/${label}/synonyms"
+      },
+      {
+        "label": "Violate",
+        "link": "https://www.powerthesaurus.org/${label}/synonyms"
+      }
+    ]
+  },
+  {
+    "label": "🙄 Impatience",
+    "submenu": [
+      {
+        "label": "Amp",
+        "link": "https://www.powerthesaurus.org/${label}/synonyms"
+      },
+      {
+        "label": "Blast",
+        "link": "https://www.powerthesaurus.org/${label}/synonyms"
+      },
+      {
+        "label": "Ignite",
+        "link": "https://www.powerthesaurus.org/${label}/synonyms"
+      },
+      {
+        "label": "Jumpstart",
+        "link": "https://www.powerthesaurus.org/${label}/synonyms"
+      },
+      {
+        "label": "Kickstart",
+        "link": "https://www.powerthesaurus.org/${label}/synonyms"
+      },
+      {
+        "label": "Launch",
+        "link": "https://www.powerthesaurus.org/${label}/synonyms"
+      },
+      {
+        "label": "Quick-start",
+        "link": "https://www.powerthesaurus.org/${label}/synonyms"
+      },
+      {
+        "label": "Speedy",
+        "link": "https://www.powerthesaurus.org/${label}/synonyms"
+      },
+      {
+        "label": "Supercharge",
+        "link": "https://www.powerthesaurus.org/${label}/synonyms"
+      },
+      {
+        "label": "Turbocharge",
+        "link": "https://www.powerthesaurus.org/${label}/synonyms"
+      },
+      {
+        "label": "Smuggle",
+        "link": "https://www.powerthesaurus.org/${label}/synonyms"
+      }
+    ]
+  },
+  {
+    "label": "😭 Sadness",
+    "submenu": [
+      {
+        "label": "Alarming",
+        "link": "https://www.powerthesaurus.org/${label}/synonyms"
+      },
+      {
+        "label": "Crushing",
+        "link": "https://www.powerthesaurus.org/${label}/synonyms"
+      },
+      {
+        "label": "Dead",
+        "link": "https://www.powerthesaurus.org/${label}/synonyms"
+      },
+      {
+        "label": "Deceptive",
+        "link": "https://www.powerthesaurus.org/${label}/synonyms"
+      },
+      {
+        "label": "Devastating",
+        "link": "https://www.powerthesaurus.org/${label}/synonyms"
+      },
+      {
+        "label": "Excruciating",
+        "link": "https://www.powerthesaurus.org/${label}/synonyms"
+      },
+      {
+        "label": "Exposed",
+        "link": "https://www.powerthesaurus.org/${label}/synonyms"
+      },
+      {
+        "label": "Sadly",
+        "link": "https://www.powerthesaurus.org/${label}/synonyms"
+      },
+      {
+        "label": "Shaming",
+        "link": "https://www.powerthesaurus.org/${label}/synonyms"
+      },
+      {
+        "label": "Suffer",
+        "link": "https://www.powerthesaurus.org/${label}/synonyms"
+      },
+      {
+        "label": "Avoid",
+        "link": "https://www.powerthesaurus.org/${label}/synonyms"
+      },
+      {
+        "label": "Demoralizing",
+        "link": "https://www.powerthesaurus.org/${label}/synonyms"
+      },
+      {
+        "label": "Problem",
+        "link": "https://www.powerthesaurus.org/${label}/synonyms"
+      }
+    ]
+  },
+  {
+    "label": "😱 Fear",
+    "submenu": [
+      {
+        "label": "Agony",
+        "link": "https://www.powerthesaurus.org/${label}/synonyms"
+      },
+      {
+        "label": "Apocalypse",
+        "link": "https://www.powerthesaurus.org/${label}/synonyms"
+      },
+      {
+        "label": "Armageddon",
+        "link": "https://www.powerthesaurus.org/${label}/synonyms"
+      },
+      {
+        "label": "Assault",
+        "link": "https://www.powerthesaurus.org/${label}/synonyms"
+      },
+      {
+        "label": "Backlash",
+        "link": "https://www.powerthesaurus.org/${label}/synonyms"
+      },
+      {
+        "label": "Beating",
+        "link": "https://www.powerthesaurus.org/${label}/synonyms"
+      },
+      {
+        "label": "Beware",
+        "link": "https://www.powerthesaurus.org/${label}/synonyms"
+      },
+      {
+        "label": "Blinded",
+        "link": "https://www.powerthesaurus.org/${label}/synonyms"
+      },
+      {
+        "label": "Blood",
+        "link": "https://www.powerthesaurus.org/${label}/synonyms"
+      },
+      {
+        "label": "Bloodbath",
+        "link": "https://www.powerthesaurus.org/${label}/synonyms"
+      },
+      {
+        "label": "Bloodcurdling",
+        "link": "https://www.powerthesaurus.org/${label}/synonyms"
+      },
+      {
+        "label": "Bloody",
+        "link": "https://www.powerthesaurus.org/${label}/synonyms"
+      },
+      {
+        "label": "Blunder",
+        "link": "https://www.powerthesaurus.org/${label}/synonyms"
+      },
+      {
+        "label": "Bomb",
+        "link": "https://www.powerthesaurus.org/${label}/synonyms"
+      },
+      {
+        "label": "Buffoon",
+        "link": "https://www.powerthesaurus.org/${label}/synonyms"
+      },
+      {
+        "label": "Bumbling",
+        "link": "https://www.powerthesaurus.org/${label}/synonyms"
+      },
+      {
+        "label": "Cadaver",
+        "link": "https://www.powerthesaurus.org/${label}/synonyms"
+      },
+      {
+        "label": "Catastrophe",
+        "link": "https://www.powerthesaurus.org/${label}/synonyms"
+      },
+      {
+        "label": "Caution",
+        "link": "https://www.powerthesaurus.org/${label}/synonyms"
+      },
+      {
+        "label": "Collapse",
+        "link": "https://www.powerthesaurus.org/${label}/synonyms"
+      },
+      {
+        "label": "Corpse",
+        "link": "https://www.powerthesaurus.org/${label}/synonyms"
+      },
+      {
+        "label": "Crazy",
+        "link": "https://www.powerthesaurus.org/${label}/synonyms"
+      },
+      {
+        "label": "Cringeworthy",
+        "link": "https://www.powerthesaurus.org/${label}/synonyms"
+      },
+      {
+        "label": "Cripple",
+        "link": "https://www.powerthesaurus.org/${label}/synonyms"
+      },
+      {
+        "label": "Crisis",
+        "link": "https://www.powerthesaurus.org/${label}/synonyms"
+      },
+      {
+        "label": "Danger",
+        "link": "https://www.powerthesaurus.org/${label}/synonyms"
+      },
+      {
+        "label": "Dark",
+        "link": "https://www.powerthesaurus.org/${label}/synonyms"
+      },
+      {
+        "label": "Deadly",
+        "link": "https://www.powerthesaurus.org/${label}/synonyms"
+      },
+      {
+        "label": "Death",
+        "link": "https://www.powerthesaurus.org/${label}/synonyms"
+      },
+      {
+        "label": "Dishonest",
+        "link": "https://www.powerthesaurus.org/${label}/synonyms"
+      },
+      {
+        "label": "Deceiving",
+        "link": "https://www.powerthesaurus.org/${label}/synonyms"
+      },
+      {
+        "label": "Destroy",
+        "link": "https://www.powerthesaurus.org/${label}/synonyms"
+      },
+      {
+        "label": "Devastating",
+        "link": "https://www.powerthesaurus.org/${label}/synonyms"
+      },
+      {
+        "label": "Disastrous",
+        "link": "https://www.powerthesaurus.org/${label}/synonyms"
+      },
+      {
+        "label": "Doom",
+        "link": "https://www.powerthesaurus.org/${label}/synonyms"
+      },
+      {
+        "label": "Drowning",
+        "link": "https://www.powerthesaurus.org/${label}/synonyms"
+      },
+      {
+        "label": "Dumb",
+        "link": "https://www.powerthesaurus.org/${label}/synonyms"
+      },
+      {
+        "label": "Embarrass",
+        "link": "https://www.powerthesaurus.org/${label}/synonyms"
+      },
+      {
+        "label": "Fail",
+        "link": "https://www.powerthesaurus.org/${label}/synonyms"
+      },
+      {
+        "label": "Feeble",
+        "link": "https://www.powerthesaurus.org/${label}/synonyms"
+      },
+      {
+        "label": "Feeble",
+        "link": "https://www.powerthesaurus.org/${label}/synonyms"
+      },
+      {
+        "label": "Fired",
+        "link": "https://www.powerthesaurus.org/${label}/synonyms"
+      },
+      {
+        "label": "Fool",
+        "link": "https://www.powerthesaurus.org/${label}/synonyms"
+      },
+      {
+        "label": "Fooled",
+        "link": "https://www.powerthesaurus.org/${label}/synonyms"
+      },
+      {
+        "label": "Frantic",
+        "link": "https://www.powerthesaurus.org/${label}/synonyms"
+      },
+      {
+        "label": "Frightening",
+        "link": "https://www.powerthesaurus.org/${label}/synonyms"
+      },
+      {
+        "label": "Gambling",
+        "link": "https://www.powerthesaurus.org/${label}/synonyms"
+      },
+      {
+        "label": "Gullible",
+        "link": "https://www.powerthesaurus.org/${label}/synonyms"
+      },
+      {
+        "label": "Hack",
+        "link": "https://www.powerthesaurus.org/${label}/synonyms"
+      },
+      {
+        "label": "Hazardous",
+        "link": "https://www.powerthesaurus.org/${label}/synonyms"
+      },
+      {
+        "label": "Hoax",
+        "link": "https://www.powerthesaurus.org/${label}/synonyms"
+      },
+      {
+        "label": "Holocaust",
+        "link": "https://www.powerthesaurus.org/${label}/synonyms"
+      },
+      {
+        "label": "Horrific",
+        "link": "https://www.powerthesaurus.org/${label}/synonyms"
+      },
+      {
+        "label": "Hurricane",
+        "link": "https://www.powerthesaurus.org/${label}/synonyms"
+      },
+      {
+        "label": "Injure",
+        "link": "https://www.powerthesaurus.org/${label}/synonyms"
+      },
+      {
+        "label": "Insidious",
+        "link": "https://www.powerthesaurus.org/${label}/synonyms"
+      },
+      {
+        "label": "Invasion",
+        "link": "https://www.powerthesaurus.org/${label}/synonyms"
+      },
+      {
+        "label": "Jail",
+        "link": "https://www.powerthesaurus.org/${label}/synonyms"
+      },
+      {
+        "label": "Jeopardy",
+        "link": "https://www.powerthesaurus.org/${label}/synonyms"
+      },
+      {
+        "label": "Lawsuit",
+        "link": "https://www.powerthesaurus.org/${label}/synonyms"
+      },
+      {
+        "label": "Looming",
+        "link": "https://www.powerthesaurus.org/${label}/synonyms"
+      },
+      {
+        "label": "Lunatic",
+        "link": "https://www.powerthesaurus.org/${label}/synonyms"
+      },
+      {
+        "label": "Lurking",
+        "link": "https://www.powerthesaurus.org/${label}/synonyms"
+      },
+      {
+        "label": "Massacre",
+        "link": "https://www.powerthesaurus.org/${label}/synonyms"
+      },
+      {
+        "label": "Meltdown",
+        "link": "https://www.powerthesaurus.org/${label}/synonyms"
+      },
+      {
+        "label": "Menacing",
+        "link": "https://www.powerthesaurus.org/${label}/synonyms"
+      },
+      {
+        "label": "Mired",
+        "link": "https://www.powerthesaurus.org/${label}/synonyms"
+      },
+      {
+        "label": "Mistake",
+        "link": "https://www.powerthesaurus.org/${label}/synonyms"
+      },
+      {
+        "label": "Murder",
+        "link": "https://www.powerthesaurus.org/${label}/synonyms"
+      },
+      {
+        "label": "Nightmare",
+        "link": "https://www.powerthesaurus.org/${label}/synonyms"
+      },
+      {
+        "label": "Painful",
+        "link": "https://www.powerthesaurus.org/${label}/synonyms"
+      },
+      {
+        "label": "Pale",
+        "link": "https://www.powerthesaurus.org/${label}/synonyms"
+      },
+      {
+        "label": "Panic",
+        "link": "https://www.powerthesaurus.org/${label}/synonyms"
+      },
+      {
+        "label": "Peril",
+        "link": "https://www.powerthesaurus.org/${label}/synonyms"
+      },
+      {
+        "label": "Piranha",
+        "link": "https://www.powerthesaurus.org/${label}/synonyms"
+      },
+      {
+        "label": "Pitfall",
+        "link": "https://www.powerthesaurus.org/${label}/synonyms"
+      },
+      {
+        "label": "Plague",
+        "link": "https://www.powerthesaurus.org/${label}/synonyms"
+      },
+      {
+        "label": "Played",
+        "link": "https://www.powerthesaurus.org/${label}/synonyms"
+      },
+      {
+        "label": "Plummet",
+        "link": "https://www.powerthesaurus.org/${label}/synonyms"
+      },
+      {
+        "label": "Plunge",
+        "link": "https://www.powerthesaurus.org/${label}/synonyms"
+      },
+      {
+        "label": "Poison",
+        "link": "https://www.powerthesaurus.org/${label}/synonyms"
+      },
+      {
+        "label": "Poor",
+        "link": "https://www.powerthesaurus.org/${label}/synonyms"
+      },
+      {
+        "label": "Prison",
+        "link": "https://www.powerthesaurus.org/${label}/synonyms"
+      },
+      {
+        "label": "Pummel",
+        "link": "https://www.powerthesaurus.org/${label}/synonyms"
+      },
+      {
+        "label": "Pus",
+        "link": "https://www.powerthesaurus.org/${label}/synonyms"
+      },
+      {
+        "label": "Reckoning",
+        "link": "https://www.powerthesaurus.org/${label}/synonyms"
+      },
+      {
+        "label": "Refugee",
+        "link": "https://www.powerthesaurus.org/${label}/synonyms"
+      },
+      {
+        "label": "Revenge",
+        "link": "https://www.powerthesaurus.org/${label}/synonyms"
+      },
+      {
+        "label": "Risky",
+        "link": "https://www.powerthesaurus.org/${label}/synonyms"
+      },
+      {
+        "label": "Scary",
+        "link": "https://www.powerthesaurus.org/${label}/synonyms"
+      },
+      {
+        "label": "Scream",
+        "link": "https://www.powerthesaurus.org/${label}/synonyms"
+      },
+      {
+        "label": "Searing",
+        "link": "https://www.powerthesaurus.org/${label}/synonyms"
+      },
+      {
+        "label": "Shame",
+        "link": "https://www.powerthesaurus.org/${label}/synonyms"
+      },
+      {
+        "label": "Shatter",
+        "link": "https://www.powerthesaurus.org/${label}/synonyms"
+      },
+      {
+        "label": "Shellacking",
+        "link": "https://www.powerthesaurus.org/${label}/synonyms"
+      },
+      {
+        "label": "Shocked",
+        "link": "https://www.powerthesaurus.org/${label}/synonyms"
+      },
+      {
+        "label": "Silly",
+        "link": "https://www.powerthesaurus.org/${label}/synonyms"
+      },
+      {
+        "label": "Slaughter",
+        "link": "https://www.powerthesaurus.org/${label}/synonyms"
+      },
+      {
+        "label": "Slave",
+        "link": "https://www.powerthesaurus.org/${label}/synonyms"
+      },
+      {
+        "label": "Strangle",
+        "link": "https://www.powerthesaurus.org/${label}/synonyms"
+      },
+      {
+        "label": "Stupid",
+        "link": "https://www.powerthesaurus.org/${label}/synonyms"
+      },
+      {
+        "label": "Suicide",
+        "link": "https://www.powerthesaurus.org/${label}/synonyms"
+      },
+      {
+        "label": "Tailspin",
+        "link": "https://www.powerthesaurus.org/${label}/synonyms"
+      },
+      {
+        "label": "Tank",
+        "link": "https://www.powerthesaurus.org/${label}/synonyms"
+      },
+      {
+        "label": "Targeted",
+        "link": "https://www.powerthesaurus.org/${label}/synonyms"
+      },
+      {
+        "label": "Teetering",
+        "link": "https://www.powerthesaurus.org/${label}/synonyms"
+      },
+      {
+        "label": "Terror",
+        "link": "https://www.powerthesaurus.org/${label}/synonyms"
+      },
+      {
+        "label": "Terrorist",
+        "link": "https://www.powerthesaurus.org/${label}/synonyms"
+      },
+      {
+        "label": "Torture",
+        "link": "https://www.powerthesaurus.org/${label}/synonyms"
+      },
+      {
+        "label": "Toxic",
+        "link": "https://www.powerthesaurus.org/${label}/synonyms"
+      },
+      {
+        "label": "Tragedy",
+        "link": "https://www.powerthesaurus.org/${label}/synonyms"
+      },
+      {
+        "label": "Trap",
+        "link": "https://www.powerthesaurus.org/${label}/synonyms"
+      },
+      {
+        "label": "Vaporize",
+        "link": "https://www.powerthesaurus.org/${label}/synonyms"
+      },
+      {
+        "label": "Victim",
+        "link": "https://www.powerthesaurus.org/${label}/synonyms"
+      },
+      {
+        "label": "Volatile",
+        "link": "https://www.powerthesaurus.org/${label}/synonyms"
+      },
+      {
+        "label": "Vulnerable",
+        "link": "https://www.powerthesaurus.org/${label}/synonyms"
+      },
+      {
+        "label": "Warning",
+        "link": "https://www.powerthesaurus.org/${label}/synonyms"
+      },
+      {
+        "label": "Worry",
+        "link": "https://www.powerthesaurus.org/${label}/synonyms"
+      },
+      {
+        "label": "Wounded",
+        "link": "https://www.powerthesaurus.org/${label}/synonyms"
+      }
+    ]
+  },
+  {
+    "label": "🥳 Encouragement",
+    "submenu": [
+      {
+        "label": "Amazing",
+        "link": "https://www.powerthesaurus.org/${label}/synonyms"
+      },
+      {
+        "label": "Ascend",
+        "link": "https://www.powerthesaurus.org/${label}/synonyms"
+      },
+      {
+        "label": "Astonishing",
+        "link": "https://www.powerthesaurus.org/${label}/synonyms"
+      },
+      {
+        "label": "Astounding",
+        "link": "https://www.powerthesaurus.org/${label}/synonyms"
+      },
+      {
+        "label": "Audacious",
+        "link": "https://www.powerthesaurus.org/${label}/synonyms"
+      },
+      {
+        "label": "Awe-inspiring",
+        "link": "https://www.powerthesaurus.org/${label}/synonyms"
+      },
+      {
+        "label": "Awesome",
+        "link": "https://www.powerthesaurus.org/${label}/synonyms"
+      },
+      {
+        "label": "Backbone",
+        "link": "https://www.powerthesaurus.org/${label}/synonyms"
+      },
+      {
+        "label": "Badass",
+        "link": "https://www.powerthesaurus.org/${label}/synonyms"
+      },
+      {
+        "label": "Beat",
+        "link": "https://www.powerthesaurus.org/${label}/synonyms"
+      },
+      {
+        "label": "Belief",
+        "link": "https://www.powerthesaurus.org/${label}/synonyms"
+      },
+      {
+        "label": "Blissful",
+        "link": "https://www.powerthesaurus.org/${label}/synonyms"
+      },
+      {
+        "label": "Bravery",
+        "link": "https://www.powerthesaurus.org/${label}/synonyms"
+      },
+      {
+        "label": "Breathtaking",
+        "link": "https://www.powerthesaurus.org/${label}/synonyms"
+      },
+      {
+        "label": "Brilliant",
+        "link": "https://www.powerthesaurus.org/${label}/synonyms"
+      },
+      {
+        "label": "Celebrate",
+        "link": "https://www.powerthesaurus.org/${label}/synonyms"
+      },
+      {
+        "label": "Cheer",
+        "link": "https://www.powerthesaurus.org/${label}/synonyms"
+      },
+      {
+        "label": "Colossal",
+        "link": "https://www.powerthesaurus.org/${label}/synonyms"
+      },
+      {
+        "label": "Command",
+        "link": "https://www.powerthesaurus.org/${label}/synonyms"
+      },
+      {
+        "label": "Conquer",
+        "link": "https://www.powerthesaurus.org/${label}/synonyms"
+      },
+      {
+        "label": "Courage",
+        "link": "https://www.powerthesaurus.org/${label}/synonyms"
+      },
+      {
+        "label": "Daring",
+        "link": "https://www.powerthesaurus.org/${label}/synonyms"
+      },
+      {
+        "label": "Defeat",
+        "link": "https://www.powerthesaurus.org/${label}/synonyms"
+      },
+      {
+        "label": "Defiance",
+        "link": "https://www.powerthesaurus.org/${label}/synonyms"
+      },
+      {
+        "label": "Delight",
+        "link": "https://www.powerthesaurus.org/${label}/synonyms"
+      },
+      {
+        "label": "Devoted",
+        "link": "https://www.powerthesaurus.org/${label}/synonyms"
+      },
+      {
+        "label": "Dignity",
+        "link": "https://www.powerthesaurus.org/${label}/synonyms"
+      },
+      {
+        "label": "Dominate",
+        "link": "https://www.powerthesaurus.org/${label}/synonyms"
+      },
+      {
+        "label": "Effortless",
+        "link": "https://www.powerthesaurus.org/${label}/synonyms"
+      },
+      {
+        "label": "Empower",
+        "link": "https://www.powerthesaurus.org/${label}/synonyms"
+      },
+      {
+        "label": "Epic",
+        "link": "https://www.powerthesaurus.org/${label}/synonyms"
+      },
+      {
+        "label": "Excellent",
+        "link": "https://www.powerthesaurus.org/${label}/synonyms"
+      },
+      {
+        "label": "Excited",
+        "link": "https://www.powerthesaurus.org/${label}/synonyms"
+      },
+      {
+        "label": "Extraordinary",
+        "link": "https://www.powerthesaurus.org/${label}/synonyms"
+      },
+      {
+        "label": "Eye-opening",
+        "link": "https://www.powerthesaurus.org/${label}/synonyms"
+      },
+      {
+        "label": "Fabulous",
+        "link": "https://www.powerthesaurus.org/${label}/synonyms"
+      },
+      {
+        "label": "Faith",
+        "link": "https://www.powerthesaurus.org/${label}/synonyms"
+      },
+      {
+        "label": "Fantastic",
+        "link": "https://www.powerthesaurus.org/${label}/synonyms"
+      },
+      {
+        "label": "Fearless",
+        "link": "https://www.powerthesaurus.org/${label}/synonyms"
+      },
+      {
+        "label": "Ferocious",
+        "link": "https://www.powerthesaurus.org/${label}/synonyms"
+      },
+      {
+        "label": "Fierce",
+        "link": "https://www.powerthesaurus.org/${label}/synonyms"
+      },
+      {
+        "label": "Force",
+        "link": "https://www.powerthesaurus.org/${label}/synonyms"
+      },
+      {
+        "label": "Fulfill",
+        "link": "https://www.powerthesaurus.org/${label}/synonyms"
+      },
+      {
+        "label": "Glorious",
+        "link": "https://www.powerthesaurus.org/${label}/synonyms"
+      },
+      {
+        "label": "Glory",
+        "link": "https://www.powerthesaurus.org/${label}/synonyms"
+      },
+      {
+        "label": "Graceful",
+        "link": "https://www.powerthesaurus.org/${label}/synonyms"
+      },
+      {
+        "label": "Grateful",
+        "link": "https://www.powerthesaurus.org/${label}/synonyms"
+      },
+      {
+        "label": "Grit",
+        "link": "https://www.powerthesaurus.org/${label}/synonyms"
+      },
+      {
+        "label": "Guts",
+        "link": "https://www.powerthesaurus.org/${label}/synonyms"
+      },
+      {
+        "label": "Happy",
+        "link": "https://www.powerthesaurus.org/${label}/synonyms"
+      },
+      {
+        "label": "Heart",
+        "link": "https://www.powerthesaurus.org/${label}/synonyms"
+      },
+      {
+        "label": "Hero",
+        "link": "https://www.powerthesaurus.org/${label}/synonyms"
+      },
+      {
+        "label": "Honor",
+        "link": "https://www.powerthesaurus.org/${label}/synonyms"
+      },
+      {
+        "label": "Hope",
+        "link": "https://www.powerthesaurus.org/${label}/synonyms"
+      },
+      {
+        "label": "Incredible",
+        "link": "https://www.powerthesaurus.org/${label}/synonyms"
+      },
+      {
+        "label": "Jaw-dropping",
+        "link": "https://www.powerthesaurus.org/${label}/synonyms"
+      },
+      {
+        "label": "Jubilant",
+        "link": "https://www.powerthesaurus.org/${label}/synonyms"
+      },
+      {
+        "label": "Legend",
+        "link": "https://www.powerthesaurus.org/${label}/synonyms"
+      },
+      {
+        "label": "Life-changing",
+        "link": "https://www.powerthesaurus.org/${label}/synonyms"
+      },
+      {
+        "label": "Magic",
+        "link": "https://www.powerthesaurus.org/${label}/synonyms"
+      },
+      {
+        "label": "Marvelous",
+        "link": "https://www.powerthesaurus.org/${label}/synonyms"
+      },
+      {
+        "label": "Master",
+        "link": "https://www.powerthesaurus.org/${label}/synonyms"
+      },
+      {
+        "label": "Mind-blowing",
+        "link": "https://www.powerthesaurus.org/${label}/synonyms"
+      },
+      {
+        "label": "Miracle",
+        "link": "https://www.powerthesaurus.org/${label}/synonyms"
+      },
+      {
+        "label": "Miraculous",
+        "link": "https://www.powerthesaurus.org/${label}/synonyms"
+      },
+      {
+        "label": "Noble",
+        "link": "https://www.powerthesaurus.org/${label}/synonyms"
+      },
+      {
+        "label": "Perfect",
+        "link": "https://www.powerthesaurus.org/${label}/synonyms"
+      },
+      {
+        "label": "Persuade",
+        "link": "https://www.powerthesaurus.org/${label}/synonyms"
+      },
+      {
+        "label": "Phenomenal",
+        "link": "https://www.powerthesaurus.org/${label}/synonyms"
+      },
+      {
+        "label": "Pluck",
+        "link": "https://www.powerthesaurus.org/${label}/synonyms"
+      },
+      {
+        "label": "Power-up",
+        "link": "https://www.powerthesaurus.org/${label}/synonyms"
+      },
+      {
+        "label": "Praise",
+        "link": "https://www.powerthesaurus.org/${label}/synonyms"
+      },
+      {
+        "label": "Prevail",
+        "link": "https://www.powerthesaurus.org/${label}/synonyms"
+      },
+      {
+        "label": "Remarkable",
+        "link": "https://www.powerthesaurus.org/${label}/synonyms"
+      },
+      {
+        "label": "Revel",
+        "link": "https://www.powerthesaurus.org/${label}/synonyms"
+      },
+      {
+        "label": "Rule",
+        "link": "https://www.powerthesaurus.org/${label}/synonyms"
+      },
+      {
+        "label": "Score",
+        "link": "https://www.powerthesaurus.org/${label}/synonyms"
+      },
+      {
+        "label": "Seize",
+        "link": "https://www.powerthesaurus.org/${label}/synonyms"
+      },
+      {
+        "label": "Sensational",
+        "link": "https://www.powerthesaurus.org/${label}/synonyms"
+      },
+      {
+        "label": "Spectacular",
+        "link": "https://www.powerthesaurus.org/${label}/synonyms"
+      },
+      {
+        "label": "Spine",
+        "link": "https://www.powerthesaurus.org/${label}/synonyms"
+      },
+      {
+        "label": "Spirit",
+        "link": "https://www.powerthesaurus.org/${label}/synonyms"
+      },
+      {
+        "label": "Splendid",
+        "link": "https://www.powerthesaurus.org/${label}/synonyms"
+      },
+      {
+        "label": "Spunk",
+        "link": "https://www.powerthesaurus.org/${label}/synonyms"
+      },
+      {
+        "label": "Staggering",
+        "link": "https://www.powerthesaurus.org/${label}/synonyms"
+      },
+      {
+        "label": "Strengthen",
+        "link": "https://www.powerthesaurus.org/${label}/synonyms"
+      },
+      {
+        "label": "Striking",
+        "link": "https://www.powerthesaurus.org/${label}/synonyms"
+      },
+      {
+        "label": "Strong",
+        "link": "https://www.powerthesaurus.org/${label}/synonyms"
+      },
+      {
+        "label": "Stunning",
+        "link": "https://www.powerthesaurus.org/${label}/synonyms"
+      },
+      {
+        "label": "Stunt",
+        "link": "https://www.powerthesaurus.org/${label}/synonyms"
+      },
+      {
+        "label": "Supreme",
+        "link": "https://www.powerthesaurus.org/${label}/synonyms"
+      },
+      {
+        "label": "Surprising",
+        "link": "https://www.powerthesaurus.org/${label}/synonyms"
+      },
+      {
+        "label": "Terrific",
+        "link": "https://www.powerthesaurus.org/${label}/synonyms"
+      },
+      {
+        "label": "Thrive",
+        "link": "https://www.powerthesaurus.org/${label}/synonyms"
+      },
+      {
+        "label": "Thwart",
+        "link": "https://www.powerthesaurus.org/${label}/synonyms"
+      },
+      {
+        "label": "Titan",
+        "link": "https://www.powerthesaurus.org/${label}/synonyms"
+      },
+      {
+        "label": "Tough",
+        "link": "https://www.powerthesaurus.org/${label}/synonyms"
+      },
+      {
+        "label": "Triumph",
+        "link": "https://www.powerthesaurus.org/${label}/synonyms"
+      },
+      {
+        "label": "Tremendous",
+        "link": "https://www.powerthesaurus.org/${label}/synonyms"
+      },
+      {
+        "label": "Unbeatable",
+        "link": "https://www.powerthesaurus.org/${label}/synonyms"
+      },
+      {
+        "label": "Unbelievable",
+        "link": "https://www.powerthesaurus.org/${label}/synonyms"
+      },
+      {
+        "label": "Unforgettable",
+        "link": "https://www.powerthesaurus.org/${label}/synonyms"
+      },
+      {
+        "label": "Unique",
+        "link": "https://www.powerthesaurus.org/${label}/synonyms"
+      },
+      {
+        "label": "Unleash",
+        "link": "https://www.powerthesaurus.org/${label}/synonyms"
+      },
+      {
+        "label": "Uplifting",
+        "link": "https://www.powerthesaurus.org/${label}/synonyms"
+      },
+      {
+        "label": "Valiant",
+        "link": "https://www.powerthesaurus.org/${label}/synonyms"
+      },
+      {
+        "label": "Valor",
+        "link": "https://www.powerthesaurus.org/${label}/synonyms"
+      },
+      {
+        "label": "Vanquish",
+        "link": "https://www.powerthesaurus.org/${label}/synonyms"
+      },
+      {
+        "label": "Victory",
+        "link": "https://www.powerthesaurus.org/${label}/synonyms"
+      },
+      {
+        "label": "Win",
+        "link": "https://www.powerthesaurus.org/${label}/synonyms"
+      },
+      {
+        "label": "Wonderful",
+        "link": "https://www.powerthesaurus.org/${label}/synonyms"
+      },
+      {
+        "label": "Wondrous",
+        "link": "https://www.powerthesaurus.org/${label}/synonyms"
+      }
+    ]
+  },
+  {
+    "label": "🤑 Greed",
+    "submenu": [
+      {
+        "label": "Bank",
+        "link": "https://www.powerthesaurus.org/${label}/synonyms"
+      },
+      {
+        "label": "Bargain",
+        "link": "https://www.powerthesaurus.org/${label}/synonyms"
+      },
+      {
+        "label": "Best",
+        "link": "https://www.powerthesaurus.org/${label}/synonyms"
+      },
+      {
+        "label": "Billion",
+        "link": "https://www.powerthesaurus.org/${label}/synonyms"
+      },
+      {
+        "label": "Bonanza",
+        "link": "https://www.powerthesaurus.org/${label}/synonyms"
+      },
+      {
+        "label": "Booked solid",
+        "link": "https://www.powerthesaurus.org/${label}/synonyms"
+      },
+      {
+        "label": "Cash",
+        "link": "https://www.powerthesaurus.org/${label}/synonyms"
+      },
+      {
+        "label": "Cheap",
+        "link": "https://www.powerthesaurus.org/${label}/synonyms"
+      },
+      {
+        "label": "Costly",
+        "link": "https://www.powerthesaurus.org/${label}/synonyms"
+      },
+      {
+        "label": "Discount",
+        "link": "https://www.powerthesaurus.org/${label}/synonyms"
+      },
+      {
+        "label": "Dollar",
+        "link": "https://www.powerthesaurus.org/${label}/synonyms"
+      },
+      {
+        "label": "Double",
+        "link": "https://www.powerthesaurus.org/${label}/synonyms"
+      },
+      {
+        "label": "Explode",
+        "link": "https://www.powerthesaurus.org/${label}/synonyms"
+      },
+      {
+        "label": "Extra",
+        "link": "https://www.powerthesaurus.org/${label}/synonyms"
+      },
+      {
+        "label": "Feast",
+        "link": "https://www.powerthesaurus.org/${label}/synonyms"
+      },
+      {
+        "label": "Fortune",
+        "link": "https://www.powerthesaurus.org/${label}/synonyms"
+      },
+      {
+        "label": "Free",
+        "link": "https://www.powerthesaurus.org/${label}/synonyms"
+      },
+      {
+        "label": "Freebie",
+        "link": "https://www.powerthesaurus.org/${label}/synonyms"
+      },
+      {
+        "label": "Frenzy",
+        "link": "https://www.powerthesaurus.org/${label}/synonyms"
+      },
+      {
+        "label": "Frugal",
+        "link": "https://www.powerthesaurus.org/${label}/synonyms"
+      },
+      {
+        "label": "Gift",
+        "link": "https://www.powerthesaurus.org/${label}/synonyms"
+      },
+      {
+        "label": "Golden",
+        "link": "https://www.powerthesaurus.org/${label}/synonyms"
+      },
+      {
+        "label": "Greatest",
+        "link": "https://www.powerthesaurus.org/${label}/synonyms"
+      },
+      {
+        "label": "High-paying",
+        "link": "https://www.powerthesaurus.org/${label}/synonyms"
+      },
+      {
+        "label": "Inexpensive",
+        "link": "https://www.powerthesaurus.org/${label}/synonyms"
+      },
+      {
+        "label": "Jackpot",
+        "link": "https://www.powerthesaurus.org/${label}/synonyms"
+      },
+      {
+        "label": "Lowest price",
+        "link": "https://www.powerthesaurus.org/${label}/synonyms"
+      },
+      {
+        "label": "Luxurious",
+        "link": "https://www.powerthesaurus.org/${label}/synonyms"
+      },
+      {
+        "label": "Marked down",
+        "link": "https://www.powerthesaurus.org/${label}/synonyms"
+      },
+      {
+        "label": "Massive",
+        "link": "https://www.powerthesaurus.org/${label}/synonyms"
+      },
+      {
+        "label": "Money",
+        "link": "https://www.powerthesaurus.org/${label}/synonyms"
+      },
+      {
+        "label": "Money-saving",
+        "link": "https://www.powerthesaurus.org/${label}/synonyms"
+      },
+      {
+        "label": "Nest egg",
+        "link": "https://www.powerthesaurus.org/${label}/synonyms"
+      },
+      {
+        "label": "Pay zero",
+        "link": "https://www.powerthesaurus.org/${label}/synonyms"
+      },
+      {
+        "label": "Prize",
+        "link": "https://www.powerthesaurus.org/${label}/synonyms"
+      },
+      {
+        "label": "Profit",
+        "link": "https://www.powerthesaurus.org/${label}/synonyms"
+      },
+      {
+        "label": "Quadruple",
+        "link": "https://www.powerthesaurus.org/${label}/synonyms"
+      },
+      {
+        "label": "Reduced",
+        "link": "https://www.powerthesaurus.org/${label}/synonyms"
+      },
+      {
+        "label": "Rich",
+        "link": "https://www.powerthesaurus.org/${label}/synonyms"
+      },
+      {
+        "label": "Savings",
+        "link": "https://www.powerthesaurus.org/${label}/synonyms"
+      },
+      {
+        "label": "Six-figure",
+        "link": "https://www.powerthesaurus.org/${label}/synonyms"
+      },
+      {
+        "label": "Skyrocket",
+        "link": "https://www.powerthesaurus.org/${label}/synonyms"
+      },
+      {
+        "label": "Soaring",
+        "link": "https://www.powerthesaurus.org/${label}/synonyms"
+      },
+      {
+        "label": "Surge",
+        "link": "https://www.powerthesaurus.org/${label}/synonyms"
+      },
+      {
+        "label": "Treasure",
+        "link": "https://www.powerthesaurus.org/${label}/synonyms"
+      },
+      {
+        "label": "Triple",
+        "link": "https://www.powerthesaurus.org/${label}/synonyms"
+      },
+      {
+        "label": "Waste",
+        "link": "https://www.powerthesaurus.org/${label}/synonyms"
+      },
+      {
+        "label": "Wealth",
+        "link": "https://www.powerthesaurus.org/${label}/synonyms"
+      },
+      {
+        "label": "Whopping",
+        "link": "https://www.powerthesaurus.org/${label}/synonyms"
+      }
+    ]
+  },
+  {
+    "label": "🤪 Confusion",
+    "submenu": [
+      {
+        "label": "Alarmed",
+        "link": "https://www.powerthesaurus.org/${label}/synonyms"
+      },
+      {
+        "label": "Anxious",
+        "link": "https://www.powerthesaurus.org/${label}/synonyms"
+      },
+      {
+        "label": "Argumentative",
+        "link": "https://www.powerthesaurus.org/${label}/synonyms"
+      },
+      {
+        "label": "Authoritative",
+        "link": "https://www.powerthesaurus.org/${label}/synonyms"
+      },
+      {
+        "label": "Awkward",
+        "link": "https://www.powerthesaurus.org/${label}/synonyms"
+      },
+      {
+        "label": "Blushing",
+        "link": "https://www.powerthesaurus.org/${label}/synonyms"
+      },
+      {
+        "label": "Compulsive",
+        "link": "https://www.powerthesaurus.org/${label}/synonyms"
+      },
+      {
+        "label": "Condescending",
+        "link": "https://www.powerthesaurus.org/${label}/synonyms"
+      },
+      {
+        "label": "Cowardly",
+        "link": "https://www.powerthesaurus.org/${label}/synonyms"
+      },
+      {
+        "label": "Deceived",
+        "link": "https://www.powerthesaurus.org/${label}/synonyms"
+      },
+      {
+        "label": "Disdainful",
+        "link": "https://www.powerthesaurus.org/${label}/synonyms"
+      },
+      {
+        "label": "Disempowered",
+        "link": "https://www.powerthesaurus.org/${label}/synonyms"
+      },
+      {
+        "label": "Dishonest",
+        "link": "https://www.powerthesaurus.org/${label}/synonyms"
+      },
+      {
+        "label": "Disillusioned",
+        "link": "https://www.powerthesaurus.org/${label}/synonyms"
+      },
+      {
+        "label": "Disoriented",
+        "link": "https://www.powerthesaurus.org/${label}/synonyms"
+      },
+      {
+        "label": "Distracted",
+        "link": "https://www.powerthesaurus.org/${label}/synonyms"
+      },
+      {
+        "label": "Distraught",
+        "link": "https://www.powerthesaurus.org/${label}/synonyms"
+      },
+      {
+        "label": "Distressed",
+        "link": "https://www.powerthesaurus.org/${label}/synonyms"
+      },
+      {
+        "label": "Distrustful",
+        "link": "https://www.powerthesaurus.org/${label}/synonyms"
+      },
+      {
+        "label": "Doomed",
+        "link": "https://www.powerthesaurus.org/${label}/synonyms"
+      },
+      {
+        "label": "Doubtful",
+        "link": "https://www.powerthesaurus.org/${label}/synonyms"
+      },
+      {
+        "label": "Embarrassed",
+        "link": "https://www.powerthesaurus.org/${label}/synonyms"
+      },
+      {
+        "label": "Fatigued",
+        "link": "https://www.powerthesaurus.org/${label}/synonyms"
+      },
+      {
+        "label": "Frenzied",
+        "link": "https://www.powerthesaurus.org/${label}/synonyms"
+      },
+      {
+        "label": "Helplessness",
+        "link": "https://www.powerthesaurus.org/${label}/synonyms"
+      },
+      {
+        "label": "Hesitant",
+        "link": "https://www.powerthesaurus.org/${label}/synonyms"
+      },
+      {
+        "label": "Incapable",
+        "link": "https://www.powerthesaurus.org/${label}/synonyms"
+      },
+      {
+        "label": "Incapacitated",
+        "link": "https://www.powerthesaurus.org/${label}/synonyms"
+      },
+      {
+        "label": "Incompetent",
+        "link": "https://www.powerthesaurus.org/${label}/synonyms"
+      },
+      {
+        "label": "Indecisive",
+        "link": "https://www.powerthesaurus.org/${label}/synonyms"
+      },
+      {
+        "label": "Inferior",
+        "link": "https://www.powerthesaurus.org/${label}/synonyms"
+      },
+      {
+        "label": "Insecure",
+        "link": "https://www.powerthesaurus.org/${label}/synonyms"
+      },
+      {
+        "label": "Jittery",
+        "link": "https://www.powerthesaurus.org/${label}/synonyms"
+      },
+      {
+        "label": "Judgmental",
+        "link": "https://www.powerthesaurus.org/${label}/synonyms"
+      },
+      {
+        "label": "Manipulative",
+        "link": "https://www.powerthesaurus.org/${label}/synonyms"
+      },
+      {
+        "label": "Misgiving",
+        "link": "https://www.powerthesaurus.org/${label}/synonyms"
+      },
+      {
+        "label": "Off-kilter",
+        "link": "https://www.powerthesaurus.org/${label}/synonyms"
+      },
+      {
+        "label": "Overwhelmed",
+        "link": "https://www.powerthesaurus.org/${label}/synonyms"
+      },
+      {
+        "label": "Panicked",
+        "link": "https://www.powerthesaurus.org/${label}/synonyms"
+      },
+      {
+        "label": "Paralyzed",
+        "link": "https://www.powerthesaurus.org/${label}/synonyms"
+      },
+      {
+        "label": "Pathetic",
+        "link": "https://www.powerthesaurus.org/${label}/synonyms"
+      },
+      {
+        "label": "Perplexed",
+        "link": "https://www.powerthesaurus.org/${label}/synonyms"
+      },
+      {
+        "label": "Squirming",
+        "link": "https://www.powerthesaurus.org/${label}/synonyms"
+      },
+      {
+        "label": "Stressed",
+        "link": "https://www.powerthesaurus.org/${label}/synonyms"
+      },
+      {
+        "label": "Suspicious",
+        "link": "https://www.powerthesaurus.org/${label}/synonyms"
+      },
+      {
+        "label": "Tense",
+        "link": "https://www.powerthesaurus.org/${label}/synonyms"
+      },
+      {
+        "label": "Terrified",
+        "link": "https://www.powerthesaurus.org/${label}/synonyms"
+      },
+      {
+        "label": "Threatened",
+        "link": "https://www.powerthesaurus.org/${label}/synonyms"
+      },
+      {
+        "label": "Trapped",
+        "link": "https://www.powerthesaurus.org/${label}/synonyms"
+      },
+      {
+        "label": "Twitching",
+        "link": "https://www.powerthesaurus.org/${label}/synonyms"
+      },
+      {
+        "label": "Uncaring",
+        "link": "https://www.powerthesaurus.org/${label}/synonyms"
+      },
+      {
+        "label": "Uncertain",
+        "link": "https://www.powerthesaurus.org/${label}/synonyms"
+      },
+      {
+        "label": "Uncomfortable",
+        "link": "https://www.powerthesaurus.org/${label}/synonyms"
+      },
+      {
+        "label": "Uninterested",
+        "link": "https://www.powerthesaurus.org/${label}/synonyms"
+      },
+      {
+        "label": "Unresponsive",
+        "link": "https://www.powerthesaurus.org/${label}/synonyms"
+      },
+      {
+        "label": "Unsure",
+        "link": "https://www.powerthesaurus.org/${label}/synonyms"
+      },
+      {
+        "label": "Vulnerable",
+        "link": "https://www.powerthesaurus.org/${label}/synonyms"
+      },
+      {
+        "label": "Woozy",
+        "link": "https://www.powerthesaurus.org/${label}/synonyms"
+      }
+    ]
+  },
+  {
+    "label": "😵 Forbidden",
+    "submenu": [
+      {
+        "label": "Ancient",
+        "link": "https://www.powerthesaurus.org/${label}/synonyms"
+      },
+      {
+        "label": "Backdoor",
+        "link": "https://www.powerthesaurus.org/${label}/synonyms"
+      },
+      {
+        "label": "Banned",
+        "link": "https://www.powerthesaurus.org/${label}/synonyms"
+      },
+      {
+        "label": "Behind the scenes",
+        "link": "https://www.powerthesaurus.org/${label}/synonyms"
+      },
+      {
+        "label": "Black Market",
+        "link": "https://www.powerthesaurus.org/${label}/synonyms"
+      },
+      {
+        "label": "Blacklisted",
+        "link": "https://www.powerthesaurus.org/${label}/synonyms"
+      },
+      {
+        "label": "Bootleg",
+        "link": "https://www.powerthesaurus.org/${label}/synonyms"
+      },
+      {
+        "label": "Censored",
+        "link": "https://www.powerthesaurus.org/${label}/synonyms"
+      },
+      {
+        "label": "Classified",
+        "link": "https://www.powerthesaurus.org/${label}/synonyms"
+      },
+      {
+        "label": "Cloak and dagger",
+        "link": "https://www.powerthesaurus.org/${label}/synonyms"
+      },
+      {
+        "label": "Concealed",
+        "link": "https://www.powerthesaurus.org/${label}/synonyms"
+      },
+      {
+        "label": "Confessions",
+        "link": "https://www.powerthesaurus.org/${label}/synonyms"
+      },
+      {
+        "label": "Confidential",
+        "link": "https://www.powerthesaurus.org/${label}/synonyms"
+      },
+      {
+        "label": "Controversial",
+        "link": "https://www.powerthesaurus.org/${label}/synonyms"
+      },
+      {
+        "label": "Covert",
+        "link": "https://www.powerthesaurus.org/${label}/synonyms"
+      },
+      {
+        "label": "Cover-up",
+        "link": "https://www.powerthesaurus.org/${label}/synonyms"
+      },
+      {
+        "label": "Exotic",
+        "link": "https://www.powerthesaurus.org/${label}/synonyms"
+      },
+      {
+        "label": "Forbidden",
+        "link": "https://www.powerthesaurus.org/${label}/synonyms"
+      },
+      {
+        "label": "Forgotten",
+        "link": "https://www.powerthesaurus.org/${label}/synonyms"
+      },
+      {
+        "label": "From the vault",
+        "link": "https://www.powerthesaurus.org/${label}/synonyms"
+      },
+      {
+        "label": "Hidden",
+        "link": "https://www.powerthesaurus.org/${label}/synonyms"
+      },
+      {
+        "label": "Hush-hush",
+        "link": "https://www.powerthesaurus.org/${label}/synonyms"
+      },
+      {
+        "label": "Illegal",
+        "link": "https://www.powerthesaurus.org/${label}/synonyms"
+      },
+      {
+        "label": "Insider",
+        "link": "https://www.powerthesaurus.org/${label}/synonyms"
+      },
+      {
+        "label": "Little-known",
+        "link": "https://www.powerthesaurus.org/${label}/synonyms"
+      },
+      {
+        "label": "Lost",
+        "link": "https://www.powerthesaurus.org/${label}/synonyms"
+      },
+      {
+        "label": "Never seen before",
+        "link": "https://www.powerthesaurus.org/${label}/synonyms"
+      },
+      {
+        "label": "Off the record",
+        "link": "https://www.powerthesaurus.org/${label}/synonyms"
+      },
+      {
+        "label": "Off-limits",
+        "link": "https://www.powerthesaurus.org/${label}/synonyms"
+      },
+      {
+        "label": "Outlawed",
+        "link": "https://www.powerthesaurus.org/${label}/synonyms"
+      },
+      {
+        "label": "Private",
+        "link": "https://www.powerthesaurus.org/${label}/synonyms"
+      },
+      {
+        "label": "Restricted",
+        "link": "https://www.powerthesaurus.org/${label}/synonyms"
+      },
+      {
+        "label": "Sealed",
+        "link": "https://www.powerthesaurus.org/${label}/synonyms"
+      },
+      {
+        "label": "Secret",
+        "link": "https://www.powerthesaurus.org/${label}/synonyms"
+      },
+      {
+        "label": "Smuggled",
+        "link": "https://www.powerthesaurus.org/${label}/synonyms"
+      },
+      {
+        "label": "Strange",
+        "link": "https://www.powerthesaurus.org/${label}/synonyms"
+      },
+      {
+        "label": "Tried to hide",
+        "link": "https://www.powerthesaurus.org/${label}/synonyms"
+      },
+      {
+        "label": "Unauthorized",
+        "link": "https://www.powerthesaurus.org/${label}/synonyms"
+      },
+      {
+        "label": "Uncensored",
+        "link": "https://www.powerthesaurus.org/${label}/synonyms"
+      },
+      {
+        "label": "Under wraps",
+        "link": "https://www.powerthesaurus.org/${label}/synonyms"
+      },
+      {
+        "label": "Undercover",
+        "link": "https://www.powerthesaurus.org/${label}/synonyms"
+      },
+      {
+        "label": "Underground",
+        "link": "https://www.powerthesaurus.org/${label}/synonyms"
+      },
+      {
+        "label": "Under-the-table",
+        "link": "https://www.powerthesaurus.org/${label}/synonyms"
+      },
+      {
+        "label": "Undisclosed",
+        "link": "https://www.powerthesaurus.org/${label}/synonyms"
+      },
+      {
+        "label": "Unexpected",
+        "link": "https://www.powerthesaurus.org/${label}/synonyms"
+      },
+      {
+        "label": "Unlock",
+        "link": "https://www.powerthesaurus.org/${label}/synonyms"
+      },
+      {
+        "label": "Unreachable",
+        "link": "https://www.powerthesaurus.org/${label}/synonyms"
+      },
+      {
+        "label": "Unspoken",
+        "link": "https://www.powerthesaurus.org/${label}/synonyms"
+      },
+      {
+        "label": "Unveiled",
+        "link": "https://www.powerthesaurus.org/${label}/synonyms"
+      },
+      {
+        "label": "Withheld",
+        "link": "https://www.powerthesaurus.org/${label}/synonyms"
+      }
+    ]
   },
   { "type": "separator" },
   {
-    "label": "Power Thesaurus Site",
+    "label": "🤬 Urban Dictonary",
+    "link": "https://www.urbandictionary.com/define.php?term=Higher%20Power"
+  },
+  {
+    "label": "⚡️ Power Thesaurus",
     "link": "https://www.powerthesaurus.org/higher_power/synonyms"
+  },
+  { "type": "separator" },
+  {
+    "label": "🦄 Tech for All on Medium",
+    "link": "https://medium.com/techforall"
   }
 ]
