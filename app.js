@@ -42,7 +42,9 @@ function makeMenu(menu) {
     .filter(Boolean)
 }
 
-app.dock.hide()
+// hiding the dock doesn't seem to work when the app is opened through the
+// Applications icon for some strange reason
+// app.dock.hide()
 
 app.on('ready', async () => {
   let tray = new Tray(
