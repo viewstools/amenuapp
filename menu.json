@@ -1,13 +1,5 @@
 [
-  { 
-    "label": "🤩 Your Higher Power",
-    "submenu": [
-      {
-        "label": "Make your menu app",
-        "link": ""
-      }
-    ]
-  },
+  { "label": "🤩 Your Higher Power" },
   { "type": "separator" },
   {
     "label": "🤯 Mind-Blowing",
