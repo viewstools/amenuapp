@@ -24,22 +24,18 @@ Use your Apple ID and generate an app-specific password to go along with it (so 
 https://github.com/electron-userland/electron-notarizeOThis is your Apple ID, but you need to generate an app-specific password to go along with it (so don’t use your regular password!) You can generate one at appleid.apple.com.#safety-when-using-appleidpassword
 https://kilianvalkhof.com/2019/electron/notarizing-your-electron-application/
 
-Caveat, needed to use a local version of electron-notarize [based off this PR](https://github.com/electron/electron-notarize/pull/14) because the Apple service that does the notarization takes more than what the script expects it to take.
-
-Somewhere outside this project's folder, do:
-
-```
-git clone git@github.com:dbkr/electron-notarize.git
-yarn install
-yarn link
-```
-
-Then come back to the project and run:
-```
-yarn link electron-notarize
-```
-
 Run:
 ```
 yarn build
+```
+
+To release it:
+```
+cd dist
+mkdir now
+cp your-higher-power-*-mac.dmg now/your-higher-power-mac.dmg
+cd now
+now --name your-higher-power --prod
+cd ../..
+rm -rf dist
 ```
